@@ -31,7 +31,6 @@ Thumbs.db
 
 # Jupyter / Colab
 .ipynb_checkpoints/
-*.ipynb
 
 # Model outputs / checkpoints
 checkpoints/
