@@ -1,0 +1,452 @@
+[
+  {
+    "question": "Sử dụng thuốc trong điều trị trẻ sơ sinh nhiễm COVID-19 như thế nào?",
+    "reference": "- Corticoid cho trẻ sơ sinh: cần cân nhắc cẩn thận, chỉ định khi tổn thương\r\nphổi và người bệnh phải",
+    "raw_prediction": "Điều trị COVID-19 ở trẻ sơ sinh chủ yếu tập trung vào việc kiểm soát các triệu chứng và hỗ trợ chức năng của các cơ quan. Sử dụng thuốc trong điều trị trẻ sơ sinh nhiễm COVID-19 cần được thực hiện dướ",
+    "prediction": "Điều trị COVID-19 ở trẻ sơ sinh chủ yếu tập trung vào việc kiểm soát các triệu chứng và hỗ trợ chức ",
+    "EM": 0.0,
+    "F1": 0.22,
+    "ROUGE-L": 0.2783
+  },
+  {
+    "question": "Tôi năm nay 54 tuổi, đã đặt sten tim động mạch vành, hiện uống thuốc duy trì theo đơn của bác sĩ. Trường hợp của tôi muốn tiêm vaccine Covid-19 có được không? Khi tiêm có duy trì uống thuốc không? Xin cảm ơn bác sĩ!",
+    "reference": "Chào anh, Anh đang có bệnh lý về tim mạch và sử dụng những loại thuốc chống đông máu. Trong trường h",
+    "raw_prediction": "Với trường hợp của bạn, việc tiêm vaccine Covid-19 là hoàn toàn có thể và được khuyến khích. Vaccine Covid-19 giúp bảo vệ bạn khỏi bệnh viêm đường hô hấp cấp do virus SARS-CoV-2 gây ra, đặc biệt quan ",
+    "prediction": "Với trường hợp của bạn, việc tiêm vaccine Covid-19 là hoàn toàn có thể và được khuyến khích. Vaccine",
+    "EM": 0.0,
+    "F1": 0.3496,
+    "ROUGE-L": 0.274
+  },
+  {
+    "question": "Cần làm gì trước khi tiêm vắc-xin COVID-19?",
+    "reference": "Theo chuyên gia Viện Vệ sinh dịch tễ Trung ương, trước khi tiêm người dân cần được kiểm tra các triệ",
+    "raw_prediction": "Trước khi tiêm vắc-xin COVID-19, cần thực hiện một số bước chuẩn bị để đảm bảo quá trình tiêm chủng diễn ra an toàn và hiệu quả. Dưới đây là các bước cần thực hiện:\n\n- **Kiểm tra tình trạng sức khỏe**",
+    "prediction": "Trước khi tiêm vắc-xin COVID-19, cần thực hiện một số bước chuẩn bị để đảm bảo quá trình tiêm chủng ",
+    "EM": 0.0,
+    "F1": 0.3524,
+    "ROUGE-L": 0.3377
+  },
+  {
+    "question": "Tôi nên làm gì nếu vài ngày sau khi một nhân viên đi làm lại phát hiện ra họ đã được chẩn đoán mắc bệnh COVID-19?",
+    "reference": "Nếu thời gian chưa được 7 ngày kể từ khi nhân viên bị bệnh sử dụng cơ sở, hãy vệ sinh và khử trùng t",
+    "raw_prediction": "Nếu một nhân viên đã đi làm lại và sau đó được chẩn đoán mắc bệnh COVID-19, cần thực hiện các bước sau để đảm bảo an toàn cho tất cả nhân viên và ngăn chặn sự lây lan của virus:\n\n1. **Thông báo và các",
+    "prediction": "Nếu một nhân viên đã đi làm lại và sau đó được chẩn đoán mắc bệnh COVID-19, cần thực hiện các bước s",
+    "EM": 0.0,
+    "F1": 0.4143,
+    "ROUGE-L": 0.3403
+  },
+  {
+    "question": "Người bị hen nhẹ, kiểm soát tốt với một số loại thuốc và đã không có cơn hen nào từ vài năm nay hiếm khi có hơi nặng ngực nhẹ khi cảm ho thông thường. Trường hợp này có nguy cơ cao phản vệ khi tiêm vaccine Covid-19 không?",
+    "reference": "Chào chị,\r\nNhững người có cơ địa dị ứng như chị có nguy cơ xảy ra phản ứng phản vệ cao hơn nhóm ngườ",
+    "raw_prediction": "Người bị hen nhẹ và kiểm soát tốt với thuốc thường không được coi là nhóm có nguy cơ cao phản vệ khi tiêm vaccine Covid-19. Tuy nhiên, cần xem xét từng trường hợp cụ thể và lịch sử phản ứng của bệnh n",
+    "prediction": "Người bị hen nhẹ và kiểm soát tốt với thuốc thường không được coi là nhóm có nguy cơ cao phản vệ khi",
+    "EM": 0.0,
+    "F1": 0.1569,
+    "ROUGE-L": 0.1984
+  },
+  {
+    "question": "Tôi phẫu thuật cột sống gần 2 tháng, sau mổ một ngày có dị ứng sốc với thuốc. Tôi có thể tiêm vaccine Covid-19 được không? Con trai tôi 18 tuổi có thể tiêm vaccine Covid-19 ở thời điểm này không? Tôi muốn đăng ký tiêm vaccine của Pfizer và Moderna phải làm thế nào? Xin cảm ơn!",
+    "reference": "Chào chị, Với tiền sử sốc thuốc sau phẫu thuật, chị không thể tiêm ngừa vaccine Covid-19 theo quy đị",
+    "raw_prediction": "Sau khi phẫu thuật cột sống gần 2 tháng và trải qua phản ứng dị ứng sốc với thuốc sau mổ, việc tiêm vaccine Covid-19 cần được xem xét kỹ lưỡng. Thông thường, các phản ứng dị ứng nghiêm trọng với thuốc",
+    "prediction": "Sau khi phẫu thuật cột sống gần 2 tháng và trải qua phản ứng dị ứng sốc với thuốc sau mổ, việc tiêm ",
+    "EM": 0.0,
+    "F1": 0.1992,
+    "ROUGE-L": 0.2082
+  },
+  {
+    "question": "Bác sĩ cho tôi hỏi vaccine Covid-19 hiện có tiêm dịch vụ chưa ạ?",
+    "reference": "Chào chị,\r\nHiện tại ở Việt Nam chưa có tiêm vaccine Covid-19 dịch vụ. Chị nên đăng ký tại địa phương",
+    "raw_prediction": "Vaccine Covid-19 hiện đã được triển khai rộng rãi và có thể tiêm tại các cơ sở y tế công lập hoặc tư nhân. Tại nhiều quốc gia, bao gồm cả Việt Nam, việc tiêm vaccine Covid-19 đã trở thành một phần qua",
+    "prediction": "Vaccine Covid-19 hiện đã được triển khai rộng rãi và có thể tiêm tại các cơ sở y tế công lập hoặc tư",
+    "EM": 0.0,
+    "F1": 0.1301,
+    "ROUGE-L": 0.1855
+  },
+  {
+    "question": "Ở Houston, tôi không có giấy tờ. Tôi có được cho phép xét nghiệm COVID-19 miễn phí không?",
+    "reference": "Có. Mỗi người dân, bất kể tình trạng quốc tịch, đều hội đủ điều kiện được xét nghiệm COVID-19\r\ntại c",
+    "raw_prediction": "Tại Houston, Texas, Hoa Kỳ, có nhiều cơ sở y tế và tổ chức cung cấp xét nghiệm COVID-19 miễn phí hoặc với chi phí thấp, bất kể tình trạng giấy tờ của bạn. Dưới đây là một số thông tin và lựa chọn có t",
+    "prediction": "Tại Houston, Texas, Hoa Kỳ, có nhiều cơ sở y tế và tổ chức cung cấp xét nghiệm COVID-19 miễn phí hoặ",
+    "EM": 0.0,
+    "F1": 0.0783,
+    "ROUGE-L": 0.137
+  },
+  {
+    "question": "Có cần thiết mua máy tạo oxy - máy thở oxy cá nhân tại nhà?",
+    "reference": "Máy tạo oxy có giá thành cao hơn rất nhiều so với máy đo oxy. Đa số các trường hợp là không cần thiế",
+    "raw_prediction": "Việc quyết định mua máy tạo oxy hoặc máy thở oxy cá nhân tại nhà phụ thuộc vào nhiều yếu tố, bao gồm cả tình trạng sức khỏe của người dùng và mục đích sử dụng. Dưới đây là một số điểm cần xem xét:\n\n##",
+    "prediction": "Việc quyết định mua máy tạo oxy hoặc máy thở oxy cá nhân tại nhà phụ thuộc vào nhiều yếu tố, bao gồm",
+    "EM": 0.0,
+    "F1": 0.3261,
+    "ROUGE-L": 0.3062
+  },
+  {
+    "question": "Tôi bị viêm gan B mạn tính và đang uống thuốc mỗi ngày. Vậy tôi có tiêm vaccine Covid-19 được không?",
+    "reference": "Chào bạn,\r\nBệnh viêm gan B mạn tính của bạn đang điều trị bằng thuốc Tenofovir không phải là trường ",
+    "raw_prediction": "Viêm gan B mạn tính là một tình trạng sức khỏe cần được quản lý và theo dõi chặt chẽ. Đối với việc tiêm vaccine Covid-19, các hướng dẫn chung cho người bị viêm gan B mạn tính như sau:\n\n- **Khả năng ti",
+    "prediction": "Viêm gan B mạn tính là một tình trạng sức khỏe cần được quản lý và theo dõi chặt chẽ. Đối với việc t",
+    "EM": 0.0,
+    "F1": 0.2648,
+    "ROUGE-L": 0.2698
+  },
+  {
+    "question": "Tôi bị huyết áp nhưng không cao quá thường khoảng 13/90, ngày nào cũng phải uống một viên thuốc nhưng không uống vài ngày cũng không sao. Tôi bị dị ứng khi uống thuốc một loại thuốc kháng sinh nhưng vẫn có thể uống một số loại kháng sinh khác. Tôi có được vaccine Covid-19 không và nên chích ngừa loại của hãng nào thưa bác sĩ? Nhờ bác sĩ tư vấn giúp tôi.",
+    "reference": "Việc anh, chị uống thuốc huyết áp duy trì hàng ngày là rất cần thiết với bệnh lý hiện tại. Trường hợ",
+    "raw_prediction": "Với tình trạng huyết áp của bạn, khoảng 13/90, được coi là huyết áp bình thường đến hơi cao, nhưng vẫn trong phạm vi có thể kiểm soát được. Việc uống thuốc hàng ngày để duy trì huyết áp ổn định là rất",
+    "prediction": "Với tình trạng huyết áp của bạn, khoảng 13/90, được coi là huyết áp bình thường đến hơi cao, nhưng v",
+    "EM": 0.0,
+    "F1": 0.3419,
+    "ROUGE-L": 0.2965
+  },
+  {
+    "question": "Nếu mang thai, tôi có thể tiêm vắc-xin COVID-19 không?",
+    "reference": "Có, nếu quý vị đang mang thai, quý vị có thể tiêm vắc-xin COVID-19.Quý vị nên trao đổi với nhà cung ",
+    "raw_prediction": "Khi mang thai, việc tiêm vắc-xin COVID-19 là một quyết định quan trọng để bảo vệ cả mẹ và thai nhi khỏi virus SARS-CoV-2. Các tổ chức y tế hàng đầu như Tổ chức Y tế Thế giới (WHO) và Trung tâm Kiểm so",
+    "prediction": "Khi mang thai, việc tiêm vắc-xin COVID-19 là một quyết định quan trọng để bảo vệ cả mẹ và thai nhi k",
+    "EM": 0.0,
+    "F1": 0.3026,
+    "ROUGE-L": 0.293
+  },
+  {
+    "question": "Động vật có thể mang vi rút gây COVID-19 trên da hoặc lông của chúng không?",
+    "reference": "Mặc dù chúng ta biết một số vi khuẩn và nấm nhất định có thể mang trên lông và tóc, nhưng không có b",
+    "raw_prediction": "Động vật có thể mang vi rút gây COVID-19 trên da hoặc lông của chúng, nhưng khả năng lây truyền từ động vật sang người vẫn còn là một chủ đề được nghiên cứu và thảo luận trong cộng đồng y tế.\n\nMột số ",
+    "prediction": "Động vật có thể mang vi rút gây COVID-19 trên da hoặc lông của chúng, nhưng khả năng lây truyền từ đ",
+    "EM": 0.0,
+    "F1": 0.3607,
+    "ROUGE-L": 0.301
+  },
+  {
+    "question": "Động vật hoặc sản phẩm động vật nhập khẩu có an toàn không?",
+    "reference": "CDC không có bất kỳ bằng chứng nào cho thấy động vật hoặc sản phẩm động vật nhập khẩu có nguy cơ lây",
+    "raw_prediction": "Động vật hoặc sản phẩm động vật nhập khẩu có thể tiềm ẩn rủi ro về sức khỏe nếu không được kiểm soát và quản lý đúng cách. Dưới đây là một số yếu tố cần xem xét:\n\n* **Rủi ro truyền bệnh**: Động vật nh",
+    "prediction": "Động vật hoặc sản phẩm động vật nhập khẩu có thể tiềm ẩn rủi ro về sức khỏe nếu không được kiểm soát",
+    "EM": 0.0,
+    "F1": 0.2922,
+    "ROUGE-L": 0.3193
+  },
+  {
+    "question": "Người bị nhiễm virus gây bệnh Covid-19 có biểu hiện gì?",
+    "reference": "Không có biểu hiện gì đặc trưng, thậm trí không có biểu hiện gì cho đến khi xuất hiện các triệu chứn",
+    "raw_prediction": "Người bị nhiễm virus SARS-CoV-2, nguyên nhân gây bệnh Covid-19, có thể biểu hiện một loạt các triệu chứng khác nhau, từ nhẹ đến nặng. Dưới đây là một số dấu hiệu và triệu chứng thường gặp:\n\n- **Sốt**:",
+    "prediction": "Người bị nhiễm virus SARS-CoV-2, nguyên nhân gây bệnh Covid-19, có thể biểu hiện một loạt các triệu ",
+    "EM": 0.0,
+    "F1": 0.2724,
+    "ROUGE-L": 0.2887
+  },
+  {
+    "question": "Xét nghiệm kháng thể được thực hiện như thế nào?",
+    "reference": "Xét nghiệm kháng thể yêu cầu phải lấy mẫu máu bằng cách chích lấy máu ở đầu ngón tay\r\nhoặc lấy máu t",
+    "raw_prediction": "Xét nghiệm kháng thể là một phương pháp quan trọng trong việc chẩn đoán và theo dõi các bệnh truyền nhiễm, bao gồm cả COVID-19. Dưới đây là quy trình thực hiện xét nghiệm kháng thể:\n\n1. **Chuẩn bị mẫu",
+    "prediction": "Xét nghiệm kháng thể là một phương pháp quan trọng trong việc chẩn đoán và theo dõi các bệnh truyền ",
+    "EM": 0.0,
+    "F1": 0.1289,
+    "ROUGE-L": 0.1601
+  },
+  {
+    "question": "Người nhà em bị bệnh, giảm cân 10% trọng lượng cơ thể, xương bị tổn thương, nghi đa u tủy nhưng khám sinh thiết và làm nhiều xét nghiệm mà chưa tìm ra bệnh. Vậy mong các bác sĩ tư vấn trường hợp trên có tiêm vaccine Covid-19 được không? Cảm ơn các bác sĩ!",
+    "reference": "Chào bạn,\r\nNếu tình trạng sức khoẻ của người nhà bạn chưa ổn định, bạn cần đưa người nhà mình tới bá",
+    "raw_prediction": "Người bệnh của bạn đang gặp phải tình trạng giảm cân đáng kể và tổn thương xương, cùng với nghi ngờ về bệnh đa u tủy. Tuy nhiên, sau khi thực hiện các xét nghiệm và sinh thiết, vẫn chưa xác định được ",
+    "prediction": "Người bệnh của bạn đang gặp phải tình trạng giảm cân đáng kể và tổn thương xương, cùng với nghi ngờ ",
+    "EM": 0.0,
+    "F1": 0.1579,
+    "ROUGE-L": 0.2263
+  },
+  {
+    "question": "Việt Nam có thể xử lý đông máu sau tiêm vaccine Covid-19 được không?",
+    "reference": "Phó giáo sư Đào Xuân Cơ, Phó Giám đốc Bệnh viện Bạch Mai, Tổng Thư ký Hội Hồi sức cấp cứu và chống đ",
+    "raw_prediction": "Việt Nam hoàn toàn có khả năng xử lý tình trạng đông máu sau tiêm vaccine Covid-19. Các cơ sở y tế tại Việt Nam đã được trang bị kiến thức và thiết bị cần thiết để xử lý các phản ứng phụ bất lợi của v",
+    "prediction": "Việt Nam hoàn toàn có khả năng xử lý tình trạng đông máu sau tiêm vaccine Covid-19. Các cơ sở y tế t",
+    "EM": 0.0,
+    "F1": 0.2183,
+    "ROUGE-L": 0.2694
+  },
+  {
+    "question": "Em năm nay 27 tuổi và có kế hoạch mang bầu trong năm nay. Em bị viêm mũi dị ứng và hay nổi mày đay nếu tiếp xúc với nước quá lâu hoặc ở trong môi trường lạnh lâu. Trường hợp của em có chích ngừa vaccine Covid-19 được không? Em chân thành cảm ơn!",
+    "reference": "Chào bạn, Bệnh viêm mũi dị ứng nếu đã được điều trị ổn định/kiểm soát tốt thì bạn vẫn được tiêm chủn",
+    "raw_prediction": "Khi mang thai, việc tiêm chủng vaccine Covid-19 là rất quan trọng để bảo vệ cả mẹ và thai nhi khỏi sự lây nhiễm của virus SARS-CoV-2. Đối với trường hợp của bạn, việc bị viêm mũi dị ứng và nổi mày đay",
+    "prediction": "Khi mang thai, việc tiêm chủng vaccine Covid-19 là rất quan trọng để bảo vệ cả mẹ và thai nhi khỏi s",
+    "EM": 0.0,
+    "F1": 0.2766,
+    "ROUGE-L": 0.2975
+  },
+  {
+    "question": "Tôi muốn hỏi giá và địa điểm tiêm vaccine Covid-19. Cảm ơn bác sĩ!",
+    "reference": "Chào anh,\r\nHiện tại, Chính phủ và Bộ Y tế vẫn đang triển khai tiêm cho các đối tượng được ưu tiên. V",
+    "raw_prediction": "Giá và địa điểm tiêm vaccine Covid-19 có thể thay đổi tùy thuộc vào quốc gia, khu vực và thời điểm. Tuy nhiên, tôi có thể cung cấp một số thông tin chung về việc tiêm vaccine Covid-19.\n\nVaccine Covid-",
+    "prediction": "Giá và địa điểm tiêm vaccine Covid-19 có thể thay đổi tùy thuộc vào quốc gia, khu vực và thời điểm. ",
+    "EM": 0.0,
+    "F1": 0.1795,
+    "ROUGE-L": 0.258
+  },
+  {
+    "question": "Lúc nào thì VNVC tổ chức cho ghi tên tiêm chủng?",
+    "reference": "Kính mời quý vị theo dõi thông tin trên website: vnvc.vn. Chúng tôi sẽ liên tục cập thông tin trên w",
+    "raw_prediction": "Việc tổ chức ghi tên tiêm chủng tại Việt Nam thường được thực hiện bởi các cơ sở y tế công lập hoặc tư nhân, bao gồm cả hệ thống bệnh viện, trung tâm y tế, và các phòng khám chuyên khoa. Thông thường,",
+    "prediction": "Việc tổ chức ghi tên tiêm chủng tại Việt Nam thường được thực hiện bởi các cơ sở y tế công lập hoặc ",
+    "EM": 0.0,
+    "F1": 0.0474,
+    "ROUGE-L": 0.1167
+  },
+  {
+    "question": "KHI NÀO NÊN NGHI NGỜ CON TÔI BỊ MẮC MIS-C?",
+    "reference": "Bạn cần nghĩ tới con mình bị MIS-C và liên hệ với cơ sở y tế gần nhất khi trẻ có các biểu hiện sau:\r",
+    "raw_prediction": "MIS-C (Hội chứng viêm đa hệ thống ở trẻ em) là một tình trạng nghiêm trọng và hiếm gặp, thường liên quan đến nhiễm COVID-19. Dưới đây là các dấu hiệu và triệu chứng mà phụ huynh nên lưu ý để nghi ngờ ",
+    "prediction": "MIS-C (Hội chứng viêm đa hệ thống ở trẻ em) là một tình trạng nghiêm trọng và hiếm gặp, thường liên ",
+    "EM": 0.0,
+    "F1": 0.2778,
+    "ROUGE-L": 0.2882
+  },
+  {
+    "question": "Em là giáo viên tại TP HCM, hiện giờ em ở Ninh Thuận từ lúc được cho nghỉ dịch. TP HCM đang là điểm nóng của dịch đợt này, em không thể vào lại TP HCM để tiêm ngừa vaccine được. Em có thể tiêm ở quê được không ạ? Nếu được cần giấy tờ gì không? Em cảm ơn và mong hồi đáp sớm nhất của các bác sĩ.",
+    "reference": "Chào anh, chị  Chiến dịch tiêm chủng tại TP HCM đã có danh sách của thành phố và của từng địa phương",
+    "raw_prediction": "Để được tiêm vaccine COVID-19 tại Ninh Thuận, bạn cần thực hiện các bước sau:\n\n1. **Đăng ký tiêm chủng**: Liên hệ với cơ quan y tế địa phương hoặc trung tâm y tế tại Ninh Thuận để đăng ký tiêm chủng. ",
+    "prediction": "Để được tiêm vaccine COVID-19 tại Ninh Thuận, bạn cần thực hiện các bước sau:\n\n1. **Đăng ký tiêm chủ",
+    "EM": 0.0,
+    "F1": 0.2609,
+    "ROUGE-L": 0.2607
+  },
+  {
+    "question": "Tôi nam 43 tuổi, mắc suy thận giai đoạn cuối, đã ghép thận được hơn 2 năm. Hiện tại các chỉ số xét nghiệm sinh hóa máu bình thường, huyết áp bình thường. Tôi có tiêm vaccine Covid-19 được không? Nếu tiêm được thì tiêm loại nào là tốt nhất? Xin cảm ơn bác sĩ!",
+    "reference": "Chào anh,\r\nAnh chưa nói rõ về các thuốc anh sử dụng sau khi ghép thận, nếu không phải thay đổi điều ",
+    "raw_prediction": "Với trường hợp của bạn, việc tiêm vaccine Covid-19 là hoàn toàn có thể và được khuyến nghị. Vì bạn đã ghép thận được hơn 2 năm và các chỉ số xét nghiệm sinh hóa máu cũng như huyết áp đang ở mức bình t",
+    "prediction": "Với trường hợp của bạn, việc tiêm vaccine Covid-19 là hoàn toàn có thể và được khuyến nghị. Vì bạn đ",
+    "EM": 0.0,
+    "F1": 0.1697,
+    "ROUGE-L": 0.2257
+  },
+  {
+    "question": "Tôi bị tiểu đường có tiêm được vaccine Covid-19 không?",
+    "reference": "Bệnh tiểu đường không thuộc trường hợp hoãn tiêm hay chống chỉ định, nếu đường máu được kiểm soát tố",
+    "raw_prediction": "Người bị tiểu đường hoàn toàn có thể tiêm vaccine Covid-19. Thực tế, những người mắc bệnh tiểu đường loại 1 hoặc loại 2 được khuyến cáo nên tiêm vaccine vì họ thuộc nhóm có nguy cơ cao mắc bệnh nặng k",
+    "prediction": "Người bị tiểu đường hoàn toàn có thể tiêm vaccine Covid-19. Thực tế, những người mắc bệnh tiểu đường",
+    "EM": 0.0,
+    "F1": 0.1875,
+    "ROUGE-L": 0.2435
+  },
+  {
+    "question": "Tôi năm nay 62 tuổi, bị ung thư tuyến giáp và đã chữa ổn định từ năm 2018 có được tiêm vaccine Covid-19 không? Chồng tôi trên 70 tuổi, có tiền sử phản ứng với kháng sinh có được tiêm vaccine này không?",
+    "reference": "Chào chị,  Đối với trường hợp của chị, bệnh ung thư tuyến giáp đã được điều trị ổn định có thể tiêm ",
+    "raw_prediction": "Đối với trường hợp của bạn, việc tiêm vaccine Covid-19 là hoàn toàn có thể và được khuyến nghị, ngay cả khi bạn đã từng bị ung thư tuyến giáp và đã điều trị ổn định từ năm 2018. Vaccine Covid-19 không",
+    "prediction": "Đối với trường hợp của bạn, việc tiêm vaccine Covid-19 là hoàn toàn có thể và được khuyến nghị, ngay",
+    "EM": 0.0,
+    "F1": 0.3806,
+    "ROUGE-L": 0.3589
+  },
+  {
+    "question": "Tiêm xong có phải đau người, sốt mới có kháng thể?",
+    "reference": "Sau tiêm vaccine việc cơ thể sẽ tiếp xúc với một kháng nguyên lạ. Phản ứng bình thường của cơ thể là",
+    "raw_prediction": "Sau khi tiêm vaccine, một số người có thể gặp phải các phản ứng phụ như đau tại chỗ tiêm, sốt, hoặc cảm giác không thoải mái toàn thân. Những phản ứng này thường là tạm thời và tự hạn chế trong vài ng",
+    "prediction": "Sau khi tiêm vaccine, một số người có thể gặp phải các phản ứng phụ như đau tại chỗ tiêm, sốt, hoặc ",
+    "EM": 0.0,
+    "F1": 0.4372,
+    "ROUGE-L": 0.3608
+  },
+  {
+    "question": "Tôi sắp đi công tác trong tháng 7 và đã tiêm một mũi vaccine AstraZacena vào ngày 21/6. Vậy khoảng cách giữa 2 mũi tiêm sớm nhất là sau bao nhiêu ngày để đạt hiệu quả của vaccine?",
+    "reference": "Chào anh/chị Theo phác đồ của Bộ Y tế, khoảng cách giữa 2 mũi vaccine Covid-19 tối đa là 12 tuần, tố",
+    "raw_prediction": "Vaccine AstraZeneca là một loại vaccine phòng chống COVID-19 được phát triển bởi Đại học Oxford và công ty AstraZeneca. Theo hướng dẫn của Tổ chức Y tế Thế giới (WHO) và các cơ quan y tế quốc gia, kho",
+    "prediction": "Vaccine AstraZeneca là một loại vaccine phòng chống COVID-19 được phát triển bởi Đại học Oxford và c",
+    "EM": 0.0,
+    "F1": 0.2179,
+    "ROUGE-L": 0.2589
+  },
+  {
+    "question": "Tôi bị huyết áp cao, thường xuyên dùng thuốc Zetstril 5mg/ngày, đã đặt stent mạch vành 2013, dùng thuốc. Hiện sức khỏe bình thường. Tôi có tiêm vaccine Covid-19 được hay không? Nên tiêm loại nào và cần lưu ý những gì?",
+    "reference": "Chào Anh/Chị,\r\nHiện tại nếu bệnh huyết áp cao của Anh/Chị đã ổn định, chỉ dùng Aspirine 81mg/ngày, k",
+    "raw_prediction": "Với tình trạng sức khỏe của bạn, bao gồm huyết áp cao và đã đặt stent mạch vành, việc tiêm vaccine Covid-19 là hoàn toàn có thể và được khuyến nghị. Dưới đây là một số thông tin và lưu ý quan trọng:\n\n",
+    "prediction": "Với tình trạng sức khỏe của bạn, bao gồm huyết áp cao và đã đặt stent mạch vành, việc tiêm vaccine C",
+    "EM": 0.0,
+    "F1": 0.2055,
+    "ROUGE-L": 0.2698
+  },
+  {
+    "question": "Xin chào bác sỹ! Tôi năm nay 40 tuổi, có dị ứng với một số loại thuốc giảm đau (sưng ngứa mặt, mẩn đỏ, nổi mề đay, bị xuất huyết dưới da - tụ huyết bầm dưới da nhiều vết tương đối lớn), dị ứng trái dứa chín và khi ăn nhiều Hải sản (phản ứng: nổi mẩn đỏ, ngứa). Ngoài ra tôi từng bị tiểu đường thai kỳ và giảm tiểu cẩu xuống rất thấp vào giai đoạn cuối thai kỳ (sau khi sinh thì tôi không bị tiểu đường nữa và tiểu cầu về lại bình thường trong các kỳ thử máu kiểm tra sức khỏe định kỳ hàng năm). Vậy tôi có thể tiên vaccine Covid-19 không? Xin cảm ơn.",
+    "reference": "Chào chị, Dựa trên các thông tin sức khỏe mà chị mô tả, chị vẫn được tiêm vaccine Covid-19. Để đảm b",
+    "raw_prediction": "Với tiền sử dị ứng của bạn, đặc biệt là với các loại thuốc giảm đau và một số loại thực phẩm như trái dứa chín và hải sản, việc cân nhắc kỹ lưỡng trước khi tiêm vaccine COVID-19 là rất quan trọng. Dị ",
+    "prediction": "Với tiền sử dị ứng của bạn, đặc biệt là với các loại thuốc giảm đau và một số loại thực phẩm như trá",
+    "EM": 0.0,
+    "F1": 0.1517,
+    "ROUGE-L": 0.2243
+  },
+  {
+    "question": "Tôi trên 65 tuổi, muốn đăng ký chích vaccine Covid-19 dạng theo độ tuổi và có thể theo dạng dịch vụ trả tiền. Nhờ bác sĩ vui lòng cho biết bây giờ tôi đăng ký trước ở đâu? Xin cảm ơn bác sĩ!",
+    "reference": "Hiện tại vaccine Covid-19 AstraZeneca đang được ưu tiên cho lực lượng tuyến đầu chống dịch là các bá",
+    "raw_prediction": "Để đăng ký chích vaccine Covid-19, đặc biệt là cho người trên 65 tuổi, bạn có thể thực hiện theo các bước sau:\n\n1. **Đăng ký qua hệ thống y tế công lập**: Tại Việt Nam, việc đăng ký vaccine thường đượ",
+    "prediction": "Để đăng ký chích vaccine Covid-19, đặc biệt là cho người trên 65 tuổi, bạn có thể thực hiện theo các",
+    "EM": 0.0,
+    "F1": 0.1574,
+    "ROUGE-L": 0.232
+  },
+  {
+    "question": "Thưa bác sĩ, tôi bị dị ứng tôm. Cách đây 10 năm, tôi ăn tôm bị phù sưng mặt và tay chân, phải nhập viện cấp cứu.Ngoài ra, tôi bị ung thư tuyến giáp giai đoạn 1, đã cắt gần trọn giáp vào tháng 11/2020. Hiện đang điều trị và uống hoc môn tuyến giáp. Bác sĩ vui lòng cho tôi hỏi, với tình trạng hiện tại, tôi có thế chích ngừa Covid-19 không ạ? Xin cảm ơn Bác sĩ nhiều ạ.",
+    "reference": "Chào chị,\r\nTheo như báo cáo của Mỹ, những người có cơ địa dị ứng, tức là những người mắc ",
+    "raw_prediction": "Với tình trạng dị ứng tôm và đã từng có phản ứng nghiêm trọng như phù sưng mặt và tay chân, bạn cần lưu ý khi sử dụng bất kỳ loại thuốc hoặc vaccine nào, bao gồm cả vaccine COVID-19. Tuy nhiên, dị ứng",
+    "prediction": "Với tình trạng dị ứng tôm và đã từng có phản ứng nghiêm trọng như phù sưng mặt và tay chân, bạn cần ",
+    "EM": 0.0,
+    "F1": 0.2295,
+    "ROUGE-L": 0.2569
+  },
+  {
+    "question": "Con tôi 10 tuổi, bị cao áp phổi có chích được vaccine Covid-19 không ạ?",
+    "reference": "Chào anh,  Hiện nay Bộ Y tế chưa có thông tin về việc tiêm phòng vaccine Covid-19 cho đối tượng dưới",
+    "raw_prediction": "Đối với trẻ em bị cao áp phổi, việc tiêm vaccine Covid-19 cần được xem xét kỹ lưỡng bởi bác sĩ chuyên khoa. Cao áp phổi là một tình trạng nghiêm trọng ảnh hưởng đến hệ tim mạch và hô hấp, do đó, cần đ",
+    "prediction": "Đối với trẻ em bị cao áp phổi, việc tiêm vaccine Covid-19 cần được xem xét kỹ lưỡng bởi bác sĩ chuyê",
+    "EM": 0.0,
+    "F1": 0.0741,
+    "ROUGE-L": 0.1646
+  },
+  {
+    "question": "Nếu đã tiêm 2 mũi, thì có cần mang khẩu trang và tránh tiếp xúc với những người khác không?",
+    "reference": "PGS.TS Thứ trưởng Bộ Y cho hay, theo khuyến cáo của Tổ chức Y tế thế giới và các hãng sản xuất vacci",
+    "raw_prediction": "Mặc dù việc tiêm vaccine là một bước quan trọng trong việc phòng ngừa COVID-19, nhưng vẫn cần tiếp tục thực hiện các biện pháp phòng ngừa khác để giảm thiểu rủi ro lây nhiễm và bảo vệ những người xung",
+    "prediction": "Mặc dù việc tiêm vaccine là một bước quan trọng trong việc phòng ngừa COVID-19, nhưng vẫn cần tiếp t",
+    "EM": 0.0,
+    "F1": 0.2607,
+    "ROUGE-L": 0.2697
+  },
+  {
+    "question": "Tôi có tiền sử bị ung thư gan đã phẫu thuật cắt 1/3 gan trái 5 năm trước. Tôi cũng bị phổi tắc nghẽn mãn tính (COPD) cấp độ C. Tôi có nên chích ngừa không, nếu chích thì dùng loại vaccine nào và ở đâu ? Gia đình tôi trước nay đều dùng dịch vụ của VNVC nên rất mong được tư vấn. Xin cảm ơn bác sĩ.",
+    "reference": "Chào Anh,Chị\r\nAnh/Chị có bệnh lý nền ung thư đã phẫu thuật điều trị được bác sĩ điều trị và được kết",
+    "raw_prediction": "Với tiền sử bị ung thư gan và hiện tại bị phổi tắc nghẽn mãn tính (COPD) cấp độ C, việc tiêm chủng là rất quan trọng để bảo vệ bạn khỏi các bệnh truyền nhiễm, đặc biệt là COVID-19, có thể gây ra các b",
+    "prediction": "Với tiền sử bị ung thư gan và hiện tại bị phổi tắc nghẽn mãn tính (COPD) cấp độ C, việc tiêm chủng l",
+    "EM": 0.0,
+    "F1": 0.3069,
+    "ROUGE-L": 0.3005
+  },
+  {
+    "question": "Người từ vùng dịch làm nhiệm vụ trở về có phải tiến hành cách ly không?",
+    "reference": "Những người được phân công vào làm nhiệm vụ ở nơi có dịch (như nhân viên y tế hoặc nhân viên cung ứn",
+    "raw_prediction": "Người từ vùng dịch làm nhiệm vụ trở về cần tuân thủ các biện pháp phòng ngừa và có thể phải tiến hành cách ly tùy thuộc vào tình hình dịch bệnh và quy định của địa phương. Dưới đây là một số nguyên tắ",
+    "prediction": "Người từ vùng dịch làm nhiệm vụ trở về cần tuân thủ các biện pháp phòng ngừa và có thể phải tiến hàn",
+    "EM": 0.0,
+    "F1": 0.2725,
+    "ROUGE-L": 0.2825
+  },
+  {
+    "question": "Tôi có thể tiêm vắc-xin COVID-19 nếu đang mang thai hay không?",
+    "reference": "Có. Những người mang thai có nhiều nguy cơ nhiễm COVID-19 nghiêm trọng hơn. Vì lý do này, Hiệp hội Y",
+    "raw_prediction": "Khi mang thai, việc tiêm vắc-xin COVID-19 là một quyết định quan trọng và nên được thảo luận với bác sĩ chăm sóc sức khỏe của bạn. Dưới đây là một số thông tin cần xem xét:\n\n**Lợi ích của việc tiêm vắ",
+    "prediction": "Khi mang thai, việc tiêm vắc-xin COVID-19 là một quyết định quan trọng và nên được thảo luận với bác",
+    "EM": 0.0,
+    "F1": 0.2606,
+    "ROUGE-L": 0.2491
+  },
+  {
+    "question": "Bé nhà em 4 tháng, đã tới ngày tiêm vaccine 6in1 và uống rota lần 3 nhưng do dịch bệnh không đi tiêm được. Em chậm tiêm cho bé 2, 3 tuần có ảnh hưởng gì không và có phải tiêm lại từ đầu không ạ?",
+    "reference": "Chào bạn,\r\nHai loại vaccine 6 trong 1 và rota trên nếu trễ lịch vẫn tiếp tục hoàn thành mà không cần",
+    "raw_prediction": "Khi chậm tiêm vaccine 6in1 và rota cho bé, điều quan trọng là phải hiểu rằng việc chậm trễ này có thể ảnh hưởng đến hiệu quả bảo vệ của vaccine đối với bé. Tuy nhiên, không phải lúc nào cũng cần phải ",
+    "prediction": "Khi chậm tiêm vaccine 6in1 và rota cho bé, điều quan trọng là phải hiểu rằng việc chậm trễ này có th",
+    "EM": 0.0,
+    "F1": 0.2351,
+    "ROUGE-L": 0.2635
+  },
+  {
+    "question": "Vaccine Covid-19 có tác dụng sau khi tiêm bao nhiêu ngày?",
+    "reference": "Tiêm vaccine Covid-19 là biện pháp phòng bệnh chủ động rất quan trọng. Tuy nhiên, người đã được tiêm",
+    "raw_prediction": "Vaccine Covid-19 thường bắt đầu có tác dụng bảo vệ sau khi tiêm một khoảng thời gian nhất định. Thời gian này có thể thay đổi tùy thuộc vào loại vaccine và số liều tiêm.\n\nĐối với hầu hết các loại vacc",
+    "prediction": "Vaccine Covid-19 thường bắt đầu có tác dụng bảo vệ sau khi tiêm một khoảng thời gian nhất định. Thời",
+    "EM": 0.0,
+    "F1": 0.3346,
+    "ROUGE-L": 0.315
+  },
+  {
+    "question": "Tôi hiện có bệnh nền rối loạn miễn dịch, đang uống thuốc điều trị. Sau khi uống thuốc điều trị, tình trạng bệnh có tiến triển tốt. Tôi xin hỏi trường hợp của tôi có thể chích vaccine ngừa Covid-19 không? Mong bác sĩ giải đáp giúp.",
+    "reference": "Chào chị,\r\nChị có bệnh nền rối loạn miễn dịch, đang sử dụng thuốc, nhưng chị không nói rõ bệnh gì và",
+    "raw_prediction": "Với trường hợp của bạn, việc quyết định có nên chích vaccine ngừa Covid-19 hay không cần được xem xét kỹ lưỡng dựa trên tình trạng sức khỏe cụ thể và loại thuốc điều trị bạn đang sử dụng. Dưới đây là ",
+    "prediction": "Với trường hợp của bạn, việc quyết định có nên chích vaccine ngừa Covid-19 hay không cần được xem xé",
+    "EM": 0.0,
+    "F1": 0.259,
+    "ROUGE-L": 0.3022
+  },
+  {
+    "question": "Khi nào VNVC mới có dịch vụ tiêm vaccine Covid-19? Giá khoảng bao nhiêu một mũi cho từng loại AstraZeneca, Pfizer, và Moderna ạ? Xin cảm ơn.",
+    "reference": "Theo thông tin từ Bộ Y tế, hơn 90.000 liều vaccine Covid-19 Pfizer/BioNTech đã về đến sân bay Nội Bà",
+    "raw_prediction": "VNVC đã triển khai dịch vụ tiêm vaccine Covid-19 từ năm 2021. Giá của mỗi loại vaccine có thể thay đổi tùy theo thời điểm và chính sách của công ty. Tuy nhiên, dựa trên thông tin cập nhật gần đây, dướ",
+    "prediction": "VNVC đã triển khai dịch vụ tiêm vaccine Covid-19 từ năm 2021. Giá của mỗi loại vaccine có thể thay đ",
+    "EM": 0.0,
+    "F1": 0.2229,
+    "ROUGE-L": 0.2973
+  },
+  {
+    "question": "Có những hình thức cách ly y tế nào?",
+    "reference": "- Cách ly tại nhà, nơi lưu trú: Áp dụng với các bệnh dịch thông thường, ít có nguy cơ gây hậu quả ng",
+    "raw_prediction": "Cách ly y tế là một biện pháp quan trọng để ngăn chặn sự lây lan của các bệnh truyền nhiễm, bao gồm cả COVID-19. Có几 hình thức cách ly y tế khác nhau, tùy thuộc vào tình huống và mức độ nguy cơ:\n\n- **",
+    "prediction": "Cách ly y tế là một biện pháp quan trọng để ngăn chặn sự lây lan của các bệnh truyền nhiễm, bao gồm ",
+    "EM": 0.0,
+    "F1": 0.3196,
+    "ROUGE-L": 0.324
+  },
+  {
+    "question": "Tôi bị dị ứng kháng sinh và thuốc (uống vào cảm giác bị rần rần khắp người, đặc biệt là sau gáy). Ngoài ra, tôi còn dị ứng với hải sản (ăn vào là nổi ngứa); từng bị tăng huyết áp khi truyền đạm sữa. Vậy tôi tiêm được vaccine Covid-19 được không?",
+    "reference": "Trường hợp của anh/chị cung cấp thông tin là vấn đề có dị ứng nhẹ với kháng sinh, thuốc và hải sản t",
+    "raw_prediction": "Với tình trạng dị ứng của bạn, việc tiêm vaccine Covid-19 cần được xem xét cẩn thận. Dị ứng với kháng sinh và thuốc có thể là một vấn đề, nhưng nhiều vaccine Covid-19 không chứa các thành phần kháng s",
+    "prediction": "Với tình trạng dị ứng của bạn, việc tiêm vaccine Covid-19 cần được xem xét cẩn thận. Dị ứng với khán",
+    "EM": 0.0,
+    "F1": 0.3361,
+    "ROUGE-L": 0.3044
+  },
+  {
+    "question": "Tôi là nữ 47 tuổi, huyết áp bình thường, không có bệnh lý nền. 2 năm trước, tôi từng có duy nhất một lần có huyết khối tĩnh mạch (không tìm ra nguyên nhân) và đã uống thuốc kháng đông để tan huyết khối trong 4 tháng thì hết.",
+    "reference": "Chào chị,\r\nHiện tại, người có yếu tố V Leiden thuộc trường hợp cần thận trọng khi tiêm chủng vaccine",
+    "raw_prediction": "Với tiền sử huyết khối tĩnh mạch mà không tìm ra nguyên nhân và đã điều trị thành công bằng thuốc kháng đông, bạn cần lưu ý một số điểm quan trọng để quản lý và phòng ngừa tái phát:\n\n1. **Giám sát và ",
+    "prediction": "Với tiền sử huyết khối tĩnh mạch mà không tìm ra nguyên nhân và đã điều trị thành công bằng thuốc kh",
+    "EM": 0.0,
+    "F1": 0.1887,
+    "ROUGE-L": 0.2586
+  },
+  {
+    "question": "Trẻ sơ sinh nhiễm COVID-19 qua đường nào?",
+    "reference": "- Trẻ sơ sinh nhiễm SARS-CoV-2 theo 3 cách: lây trong tử cung (qua\r\nđường máu hoặc nước ối từ mẹ nhi",
+    "raw_prediction": "Trẻ sơ sinh có thể nhiễm COVID-19 qua một số đường truyền, bao gồm:\n\n* **Truyền từ mẹ sang con**: Trẻ có thể nhiễm virus trong quá trình mang thai, đặc biệt nếu mẹ bị nhiễm COVID-19 trong thời kỳ mang",
+    "prediction": "Trẻ sơ sinh có thể nhiễm COVID-19 qua một số đường truyền, bao gồm:\n\n* **Truyền từ mẹ sang con**: Tr",
+    "EM": 0.0,
+    "F1": 0.2733,
+    "ROUGE-L": 0.3129
+  },
+  {
+    "question": "Phó giáo sư, Tiến sĩ có thể cho tôi biết thêm thông tin về vaccine AstraZeneca đang được tiêm chủng tại Việt Nam. Vaccine có nguồn gốc như thế nào, có an toàn không, hiệu quả bảo vệ trước nguy cơ nhập viện và tử vong do Covid-19 bao nhiêu phần trăm? Vì sao có người tiêm đủ hai mũi vaccine phòng Covid-19 mà vẫn mắc bệnh ạ?",
+    "reference": "Vaccine AstraZenca là vaccine được sản xuất theo công nghệ Vector. Vaccine này đã được cấp phép bởi ",
+    "raw_prediction": "Vaccine AstraZeneca là một loại vaccine phòng chống COVID-19 được phát triển bởi Đại học Oxford và công ty AstraZeneca. Loại vaccine này sử dụng công nghệ vector virus, trong đó một loại virus vô hại ",
+    "prediction": "Vaccine AstraZeneca là một loại vaccine phòng chống COVID-19 được phát triển bởi Đại học Oxford và c",
+    "EM": 0.0,
+    "F1": 0.381,
+    "ROUGE-L": 0.295
+  },
+  {
+    "question": "Tại sao \"Cánh tay COVID\" lại xảy ra?",
+    "reference": "Cánh tay COVID được cho là một phản ứng quá mức của hệ thống miễn dịch, thể hiện rằng các tế bào miễ",
+    "raw_prediction": "\"Cánh tay COVID\" hay còn được gọi là hiện tượng \"cánh tay vaccine\" hoặc \"vết đỏ tại chỗ tiêm\", là một phản ứng phụ thường gặp sau khi tiêm vaccine COVID-19. Hiện tượng này thường xuất hiện ở vùng da x",
+    "prediction": "\"Cánh tay COVID\" hay còn được gọi là hiện tượng \"cánh tay vaccine\" hoặc \"vết đỏ tại chỗ tiêm\", là mộ",
+    "EM": 0.0,
+    "F1": 0.3254,
+    "ROUGE-L": 0.3143
+  },
+  {
+    "question": "Tôi đang cho con bú, bé được gần 11 tháng. Tôi vừa tiêm vaccine Covid-19 mũi một của hãng Astrazeneca vào ngày 6/7. Tôi có cần phải ngưng cho con bú một thời gian không? Mong được bác sĩ giải đáp.",
+    "reference": "Chào chị,  Hiện tại theo thông tin kê toa của nhà sản xuất vaccine AstraZeneca chưa có dữ liệu về vi",
+    "raw_prediction": "Không cần phải ngưng cho con bú sau khi tiêm vaccine Covid-19. Các cơ quan y tế như Tổ chức Y tế Thế giới (WHO) và Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh (CDC) đều khuyến cáo mẹ có thể tiếp tục c",
+    "prediction": "Không cần phải ngưng cho con bú sau khi tiêm vaccine Covid-19. Các cơ quan y tế như Tổ chức Y tế Thế",
+    "EM": 0.0,
+    "F1": 0.2308,
+    "ROUGE-L": 0.2778
+  },
+  {
+    "question": "Biến chủng Epsilon (B.1.427/B.1.429) là gì?",
+    "reference": "Biến chủng này có thể tự sắp xếp lại một phần của protein đột biến mà virus sử dụng để liên kết với ",
+    "raw_prediction": "Biến chủng Epsilon, còn được biết đến với mã định danh B.1.427/B.1.429, là một biến chủng của virus SARS-CoV-2, loại virus gây ra bệnh COVID-19. Biến chủng này được phát hiện lần đầu tiên tại Californ",
+    "prediction": "Biến chủng Epsilon, còn được biết đến với mã định danh B.1.427/B.1.429, là một biến chủng của virus ",
+    "EM": 0.0,
+    "F1": 0.2056,
+    "ROUGE-L": 0.2234
+  },
+  {
+    "question": "Hiện nay em đang bị bệnh lý nền là rồi loạn đông máu vô căn, vừa qua đã điều trị xong đông máu động mạch nhánh ở phổi. Hiện giờ đang điều trị tiếp tục bằng thuốc kháng đông, mỗi ngày 2 viên. Em đang không biết mình có thể tiêm vaccine Covid-19 được không? Em cảm ơn.",
+    "reference": "Chào anh, \r\nTheo như hướng dẫn của Bộ Y tế về khám sàng lọc trước tiêm vaccine Covidd-19 đối với nhữ",
+    "raw_prediction": "Với trường hợp của bạn, việc tiêm vaccine Covid-19 cần được xem xét kỹ lưỡng do bạn đang sử dụng thuốc kháng đông và có bệnh lý nền là rối loạn đông máu vô căn, cũng như vừa điều trị xong đông máu độn",
+    "prediction": "Với trường hợp của bạn, việc tiêm vaccine Covid-19 cần được xem xét kỹ lưỡng do bạn đang sử dụng thu",
+    "EM": 0.0,
+    "F1": 0.2894,
+    "ROUGE-L": 0.2969
+  }
+]

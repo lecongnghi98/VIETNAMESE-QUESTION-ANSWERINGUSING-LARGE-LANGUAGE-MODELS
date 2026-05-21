@@ -1,0 +1,78 @@
+{
+  "dataset_name": "ViSpanExtractQA",
+  "total_samples": 97189,
+  "splits": {
+    "train": 97189
+  },
+  "word_length": {
+    "context": {
+      "count": 97189,
+      "min": 8,
+      "max": 1537,
+      "mean": 166.59,
+      "median": 152.0,
+      "std": 70.67,
+      "q25": 123.0,
+      "q75": 197.0
+    },
+    "question": {
+      "count": 97189,
+      "min": 1,
+      "max": 57,
+      "mean": 13.44,
+      "median": 13.0,
+      "std": 5.06,
+      "q25": 10.0,
+      "q75": 16.0
+    },
+    "answer": {
+      "count": 97189,
+      "min": 0,
+      "max": 150,
+      "mean": 5.32,
+      "median": 3.0,
+      "std": 6.58,
+      "q25": 2.0,
+      "q75": 6.0
+    }
+  },
+  "char_length": {
+    "context": {
+      "count": 97189,
+      "min": 42,
+      "max": 7221,
+      "mean": 770.8,
+      "median": 703.0,
+      "std": 325.13,
+      "q25": 570.0,
+      "q75": 912.0
+    },
+    "question": {
+      "count": 97189,
+      "min": 1,
+      "max": 250,
+      "mean": 60.05,
+      "median": 57.0,
+      "std": 22.67,
+      "q25": 44.0,
+      "q75": 73.0
+    },
+    "answer": {
+      "count": 97189,
+      "min": 1,
+      "max": 740,
+      "mean": 24.38,
+      "median": 15.0,
+      "std": 29.84,
+      "q25": 8.0,
+      "q75": 27.0
+    }
+  },
+  "quality": {
+    "missing_context": 0,
+    "missing_question": 0,
+    "missing_answer": 6,
+    "duplicate_questions": 2965,
+    "unicode_issues": 31
+  }
+}

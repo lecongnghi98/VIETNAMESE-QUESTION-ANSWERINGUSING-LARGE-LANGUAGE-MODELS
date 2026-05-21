@@ -1,0 +1,452 @@
+[
+  {
+    "question": "Cách đây 3 năm ông Bình mắc bệnh gì?",
+    "reference": "ung thư thanh quản",
+    "raw_prediction": "**Phân tích:**  \n- Trong đoạn văn mở đầu: “Ông Bình phát hiện **ung thư thanh quản** cách đây 3 năm…”.  \n- Câu hỏi yêu cầu xác định bệnh mà ông Bình mắc cách đây 3 năm.\n\n**Trả lời:**  \nÔng Bình cách đ",
+    "prediction": "**Phân tích:**  \n- Trong đoạn văn mở đầu: “Ông Bình phát hiện **ung thư thanh quản** cách đây 3 năm…",
+    "EM": 0.0,
+    "F1": 0.0755,
+    "ROUGE-L": 0.1282
+  },
+  {
+    "question": "Với kỹ thuật cũ, liệu trình trị xạ là bao nhiêu lần?",
+    "reference": "30 lần",
+    "raw_prediction": "**Phân tích:**  \nTrong đoạn mô tả về kỹ thuật cũ, có câu: “Với kỹ thuật cũ, **liều xạ là 30 lần** và ngưỡng sai số có thể lên đến 5‑10 mm.” Câu này trực tiếp cho biết số lần của liệu trình xạ trị khi ",
+    "prediction": "**Phân tích:**  \nTrong đoạn mô tả về kỹ thuật cũ, có câu: “Với kỹ thuật cũ, **liều xạ là 30 lần** và",
+    "EM": 0.0,
+    "F1": 0.0606,
+    "ROUGE-L": 0.0606
+  },
+  {
+    "question": "Phương pháp mới có ngưỡng sai số là bao nhiêu?",
+    "reference": "một mm",
+    "raw_prediction": "**Phân tích:**  \n- Đoạn văn so sánh kỹ thuật cũ và kỹ thuật mới.  \n- Với kỹ thuật cũ, “ngưỡng sai số có thể lên đến 5‑10 mm”.  \n- Ngay sau đó, mô tả kỹ thuật mới: “ngưỡng sai số cử động cho phép là **",
+    "prediction": "**Phân tích:**  \n- Đoạn văn so sánh kỹ thuật cũ và kỹ thuật mới.  \n- Với kỹ thuật cũ, “ngưỡng sai số",
+    "EM": 0.0,
+    "F1": 0.0,
+    "ROUGE-L": 0.0741
+  },
+  {
+    "question": "Kỹ thuật mới áp dụng cho những trường hợp nào?",
+    "reference": "bướu nhỏ, giai đoạn sớm, tái phát còn khu trú tại chỗ, bệnh nhân lớn tuổi thể trạng yếu khó có thể t",
+    "raw_prediction": "Kỹ thuật xạ trị định vị thân (SBRT) với hệ thống giám sát bề mặt (OSMS) được chỉ định cho:\n\n* **Bướu nhỏ**, ở **giai đoạn sớm**;  \n* **Ung thư tái phát còn khu trú tại chỗ**;  \n* **Bệnh nhân lớn tuổi*",
+    "prediction": "Kỹ thuật xạ trị định vị thân (SBRT) với hệ thống giám sát bề mặt (OSMS) được chỉ định cho:\n\n* **Bướu",
+    "EM": 0.0,
+    "F1": 0.3448,
+    "ROUGE-L": 0.6563
+  },
+  {
+    "question": "Với kỹ thuật cũ, ngưỡng sai số của liều xạ là bao nhiêu?",
+    "reference": "lên đến 5-10 mm",
+    "raw_prediction": "**Phân tích:**  \nTrong đoạn mô tả về kỹ thuật cũ, văn bản nêu rõ: “Với kỹ thuật cũ, liều xạ là 30 lần và **ngưỡng sai số có thể lên đến 5‑10 mm**.”  \n\n**Trả lời:**  \nVới kỹ thuật cũ, ngưỡng sai số của",
+    "prediction": "**Phân tích:**  \nTrong đoạn mô tả về kỹ thuật cũ, văn bản nêu rõ: “Với kỹ thuật cũ, liều xạ là 30 lầ",
+    "EM": 0.0,
+    "F1": 0.0727,
+    "ROUGE-L": 0.1519
+  },
+  {
+    "question": "Bác sĩ Nguyễn Tri Thức từng giữ chức gì?",
+    "reference": "Giám đốc Bệnh viện Chợ Rẫy Phnom Penh tại Campuchia, Trưởng Khoa Điều trị Rối loạn nhịp, Phó Giám đố",
+    "raw_prediction": "**Bác sĩ Nguyễn Tri Thức đã từng giữ các chức vụ sau (theo ngữ cảnh):**\n\n1. **Giám đốc Bệnh viện Chợ Rẫy – Phnom Penh (Campuchia).**  \n2. **Trưởng Khoa Điều trị Rối loạn nhịp.**  \n3. **Phó Giám đốc Tr",
+    "prediction": "**Bác sĩ Nguyễn Tri Thức đã từng giữ các chức vụ sau (theo ngữ cảnh):**\n\n1. **Giám đốc Bệnh viện Chợ",
+    "EM": 0.0,
+    "F1": 0.38,
+    "ROUGE-L": 0.4762
+  },
+  {
+    "question": "Bệnh viện Chợ Rẫy được giao nhiệm vụ tự chủ hoàn toàn từ khi nào?",
+    "reference": "tháng 5/2019",
+    "raw_prediction": "**Phân tích:**  \nTrong đoạn văn có câu: “*Chợ Rẫy là một trong 4 bệnh viện đầu tiên thuộc Bộ Y tế được giao nhiệm vụ tự chủ hoàn toàn **từ tháng 5/2019***.”  \n\n**Trả lời:**  \nBệnh viện Chợ Rẫy được gi",
+    "prediction": "**Phân tích:**  \nTrong đoạn văn có câu: “*Chợ Rẫy là một trong 4 bệnh viện đầu tiên thuộc Bộ Y tế đư",
+    "EM": 0.0,
+    "F1": 0.037,
+    "ROUGE-L": 0.0988
+  },
+  {
+    "question": "Giáo sư Nguyễn Văn Khôi được trao tặng gì trước khi về hưu?",
+    "reference": "Huân chương Lao động hạng Nhì",
+    "raw_prediction": "Giáo sư Nguyễn Văn Khôi đã được trao **Huân chương Lao động hạng Nhì** trước khi nghỉ hưu.",
+    "prediction": "Giáo sư Nguyễn Văn Khôi đã được trao **Huân chương Lao động hạng Nhì** trước khi nghỉ hưu.",
+    "EM": 0.0,
+    "F1": 0.3333,
+    "ROUGE-L": 0.5143
+  },
+  {
+    "question": "Năm 2008, Bác sĩ Nguyễn Tri Thức có danh hiệu gì?",
+    "reference": "thầy thuốc trẻ tiêu biểu toàn quốc",
+    "raw_prediction": "**Phân tích:**  \nTrong đoạn văn mô tả tiểu sử của bác sĩ Nguyễn Tri Thức, có câu:  \n\n> “…từng là một trong 10 gương mặt trẻ tiêu biểu Việt Nam **năm 2007**, **thầy thuốc trẻ tiêu biểu toàn quốc năm 20",
+    "prediction": "**Phân tích:**  \nTrong đoạn văn mô tả tiểu sử của bác sĩ Nguyễn Tri Thức, có câu:  \n\n> “…từng là một",
+    "EM": 0.0,
+    "F1": 0.1412,
+    "ROUGE-L": 0.1912
+  },
+  {
+    "question": "Ông thức được bổ nhiệm thành Giám đốc khi nào?",
+    "reference": "chiều 11/10",
+    "raw_prediction": "Ông Nguyễn Tri Thức được trao quyết định bổ nhiệm làm Giám đốc **vào chiều ngày 11 / 10** (theo thông tin trong ngữ cảnh).",
+    "prediction": "Ông Nguyễn Tri Thức được trao quyết định bổ nhiệm làm Giám đốc **vào chiều ngày 11 / 10** (theo thôn",
+    "EM": 0.0,
+    "F1": 0.0741,
+    "ROUGE-L": 0.2051
+  },
+  {
+    "question": "Hiện tượng Leukocoria có thể là dấu hiệu của bệnh gì?",
+    "reference": "một số bệnh nghiêm trọng về mắt như bệnh u nguyên bào võng mạc, đục thủy tinh thể và nhiều tình trạn",
+    "raw_prediction": "Hiện tượng **Leukocoria** có thể là dấu hiệu của các bệnh nghiêm trọng về mắt, trong đó nổi bật nhất là:\n\n- **U nguyên bào võng mạc (retinoblastoma)**\n- **Đục thủy tinh thể**\n\nNgoài ra, nó còn có thể ",
+    "prediction": "Hiện tượng **Leukocoria** có thể là dấu hiệu của các bệnh nghiêm trọng về mắt, trong đó nổi bật nhất",
+    "EM": 0.0,
+    "F1": 0.3784,
+    "ROUGE-L": 0.6435
+  },
+  {
+    "question": "Để kiểm chứng ứng dụng, nhóm nhà khoa học đã làm gì?",
+    "reference": "phân tích hơn 50.000 bức ảnh chụp 40 trẻ em",
+    "raw_prediction": "Để kiểm chứng ứng dụng, nhóm nhà khoa học đã **phân tích hơn 50.000 bức ảnh chụp của 40 trẻ em**, trong đó **một nửa ảnh là của trẻ có mắt hoàn toàn bình thường** và **nửa còn lại là của trẻ đã được c",
+    "prediction": "Để kiểm chứng ứng dụng, nhóm nhà khoa học đã **phân tích hơn 50.000 bức ảnh chụp của 40 trẻ em**, tr",
+    "EM": 0.0,
+    "F1": 0.1509,
+    "ROUGE-L": 0.1939
+  },
+  {
+    "question": "Brian đã phát hiện gì khi xem lại hình ảnh của con khi mới chào đời?",
+    "reference": "hình ảnh \"mắt trắng\" trong đôi mắt con trai",
+    "raw_prediction": "Khi xem lại những bức ảnh chụp con mình ngay sau khi sinh, Brian nhận thấy hiện tượng “mắt trắng” (leukocoria) – tức là ánh sáng trắng xuất hiện trong mắt của bé, dấu hiệu cảnh báo có thể có vấn đề ng",
+    "prediction": "Khi xem lại những bức ảnh chụp con mình ngay sau khi sinh, Brian nhận thấy hiện tượng “mắt trắng” (l",
+    "EM": 0.0,
+    "F1": 0.1455,
+    "ROUGE-L": 0.2169
+  },
+  {
+    "question": "Mục đích Brian nghiên cứu tạo ra ứng dụng CRADLE là gì?",
+    "reference": "mong muốn sẽ không có đứa trẻ nào rơi vào hoàn cảnh tương tự như con mình",
+    "raw_prediction": "Mục đích của Brian khi nghiên cứu và tạo ra ứng dụng **CRADLE** là **phát hiện sớm các bệnh mắt nguy hiểm (như u nguyên bào võng mạc, đục thủy tinh thể, …) thông qua hình ảnh “mắt trắng” (leukocoria) ",
+    "prediction": "Mục đích của Brian khi nghiên cứu và tạo ra ứng dụng **CRADLE** là **phát hiện sớm các bệnh mắt nguy",
+    "EM": 0.0,
+    "F1": 0.1205,
+    "ROUGE-L": 0.2381
+  },
+  {
+    "question": "Bác sĩ đã chẩn đoán Noah mắc bệnh gì?",
+    "reference": "u nguyên bào võng mạc",
+    "raw_prediction": "Bác sĩ đã chẩn đoán Noah mắc **u nguyên bào võng mạc**.",
+    "prediction": "Bác sĩ đã chẩn đoán Noah mắc **u nguyên bào võng mạc**.",
+    "EM": 0.0,
+    "F1": 0.3529,
+    "ROUGE-L": 0.6429
+  },
+  {
+    "question": "Viện trưởng Huyết học - Truyền máu Trung ương là ai?",
+    "reference": "tiến sĩ Bạch Quốc Khánh",
+    "raw_prediction": "Viện trưởng Viện Huyết học - Truyền máu Trung ương là **tiến sĩ Bạch Quốc Khánh**.",
+    "prediction": "Viện trưởng Viện Huyết học - Truyền máu Trung ương là **tiến sĩ Bạch Quốc Khánh**.",
+    "EM": 0.0,
+    "F1": 0.2857,
+    "ROUGE-L": 0.5143
+  },
+  {
+    "question": "Sau 3 tháng hoạt động, điểm hiến máu đã có bao nhiêu người đến đăng ký?",
+    "reference": "gần 1.400 người",
+    "raw_prediction": "**Phân tích**  \n- Văn bản nêu: “Sau hơn 3 tháng hoạt động, điểm hiến máu cố định đầu tiên tại Trung tâm Y tế quận Hoàn Kiếm **có gần 1.400 người dân đến đăng ký hiến máu**…”.  \n- Câu hỏi yêu cầu số ng",
+    "prediction": "**Phân tích**  \n- Văn bản nêu: “Sau hơn 3 tháng hoạt động, điểm hiến máu cố định đầu tiên tại Trung ",
+    "EM": 0.0,
+    "F1": 0.08,
+    "ROUGE-L": 0.1043
+  },
+  {
+    "question": "Hà Nội đã tiếp nhận bao nhiêu đơn vị máu từ người hiến tình nguyện vào năm 2018?",
+    "reference": "trên 223.000",
+    "raw_prediction": "Theo nội dung đã cho, vào năm 2018 Hà Nội đã tiếp nhận **hơn 223.000 đơn vị máu** từ người hiến tình nguyện.",
+    "prediction": "Theo nội dung đã cho, vào năm 2018 Hà Nội đã tiếp nhận **hơn 223.000 đơn vị máu** từ người hiến tình",
+    "EM": 0.0,
+    "F1": 0.08,
+    "ROUGE-L": 0.1579
+  },
+  {
+    "question": "Mục đích của việc triển khai các điểm hiến máu cố định tại các trung tâm y tế quận, huyện là gì?",
+    "reference": "tạo điều kiện cho người dân có thể hiến máu thường xuyên, thuận tiện, hình thành thói quen hiến máu ",
+    "raw_prediction": "Mục đích của việc triển khai các điểm hiến máu cố định tại các trung tâm y tế quận, huyện là **tạo điều kiện thuận lợi cho người dân hiến máu thường xuyên**, giúp họ dễ dàng tiếp cận dịch vụ, **hình t",
+    "prediction": "Mục đích của việc triển khai các điểm hiến máu cố định tại các trung tâm y tế quận, huyện là **tạo đ",
+    "EM": 0.0,
+    "F1": 0.4419,
+    "ROUGE-L": 0.5833
+  },
+  {
+    "question": "Sau 3 tháng hoạt động, điểm hiến máu đã tiếp nhận bao nhiêu đơn bị máu?",
+    "reference": "hơn 1.200",
+    "raw_prediction": "**Phân tích:**  \n- Đoạn văn nói: “Sau hơn 3 tháng hoạt động, điểm hiến máu cố định đầu tiên … có gần 1.400 người dân đến đăng ký hiến máu **và hơn 1.200 đơn vị máu đã được tiếp nhận**.”  \n- Vì câu hỏi",
+    "prediction": "**Phân tích:**  \n- Đoạn văn nói: “Sau hơn 3 tháng hoạt động, điểm hiến máu cố định đầu tiên … có gần",
+    "EM": 0.0,
+    "F1": 0.0465,
+    "ROUGE-L": 0.0611
+  },
+  {
+    "question": "Bệnh viện gì vừa thực hiện thành công ca phẫu thuật bảo tồn, treo sa trễ ngực bệnh nhân?",
+    "reference": "Bệnh viện K",
+    "raw_prediction": "Bệnh viện **K** là cơ sở vừa thực hiện thành công ca phẫu thuật bảo tồn, treo sa trễ ngực cho bệnh nhân.",
+    "prediction": "Bệnh viện **K** là cơ sở vừa thực hiện thành công ca phẫu thuật bảo tồn, treo sa trễ ngực cho bệnh n",
+    "EM": 0.0,
+    "F1": 0.1538,
+    "ROUGE-L": 0.2381
+  },
+  {
+    "question": "Bà bị ung thư vú giai đoạn mấy?",
+    "reference": "giai đoạn I",
+    "raw_prediction": "Bà bị ung thư vú **giai đoạn I**.",
+    "prediction": "Bà bị ung thư vú **giai đoạn I**.",
+    "EM": 0.0,
+    "F1": 0.1818,
+    "ROUGE-L": 0.6154
+  },
+  {
+    "question": "Bệnh nhân đã khám tại bao nhiêu bệnh viện ở Thái Lan và Việt Nam?",
+    "reference": "3 bệnh viện",
+    "raw_prediction": "**Phân tích:**  \nTrong đoạn văn có câu: “Bệnh nhân đã khám tại **3 bệnh viện** ở Thái Lan và Việt Nam, cùng có kết quả ung thư.”  \n\n**Trả lời:** Bệnh nhân đã khám tại **3 bệnh viện** (tại Thái Lan và ",
+    "prediction": "**Phân tích:**  \nTrong đoạn văn có câu: “Bệnh nhân đã khám tại **3 bệnh viện** ở Thái Lan và Việt Na",
+    "EM": 0.0,
+    "F1": 0.0435,
+    "ROUGE-L": 0.1429
+  },
+  {
+    "question": "Bệnh nhân mong muốn các bác sĩ phẫu thuật tạo hình vú để giữ được gì?",
+    "reference": "để giữ được tính thẩm mỹ",
+    "raw_prediction": "Bệnh nhân mong muốn các bác sĩ thực hiện phẫu thuật tạo hình vú để **giữ được tính thẩm mỹ** của ngực.",
+    "prediction": "Bệnh nhân mong muốn các bác sĩ thực hiện phẫu thuật tạo hình vú để **giữ được tính thẩm mỹ** của ngự",
+    "EM": 0.0,
+    "F1": 0.2857,
+    "ROUGE-L": 0.3256
+  },
+  {
+    "question": "Nếu không tạo hình được, chị nhờ các bác sĩ đặt gì?",
+    "reference": "đặt túi thẩm mỹ",
+    "raw_prediction": "Nếu không tạo hình được, chị nhờ các bác sĩ **đặt túi thẩm mỹ**.",
+    "prediction": "Nếu không tạo hình được, chị nhờ các bác sĩ **đặt túi thẩm mỹ**.",
+    "EM": 0.0,
+    "F1": 0.2222,
+    "ROUGE-L": 0.4286
+  },
+  {
+    "question": "Tháng 2, nhà chức trách thành phố Vancouver ghi nhận bao nhiêu ca sởi?",
+    "reference": "9 ca sởi",
+    "raw_prediction": "**Phân tích:**  \nTrong đoạn văn, câu đầu tiên nêu rõ: “*Tháng 2, nhà chức trách thành phố Vancouver ghi nhận **9 ca sởi***.” Đây là thông tin trực tiếp đáp ứng câu hỏi.\n\n**Trả lời:**  \nTháng 2, nhà ch",
+    "prediction": "**Phân tích:**  \nTrong đoạn văn, câu đầu tiên nêu rõ: “*Tháng 2, nhà chức trách thành phố Vancouver ",
+    "EM": 0.0,
+    "F1": 0.0392,
+    "ROUGE-L": 0.1039
+  },
+  {
+    "question": "Bệnh nhân chủ yếu tập trung ở những trường dạy tiếng gì trong khu vực?",
+    "reference": "tiếng Pháp",
+    "raw_prediction": "**Phân tích:**  \nTrong đoạn văn, câu mô tả địa điểm tập trung của các ca sởi nói: “Bệnh nhân chủ yếu tập trung ở những trường *dạy tiếng Pháp* trong khu vực.”  \n\n**Trả lời:** Bệnh nhân chủ yếu tập tru",
+    "prediction": "**Phân tích:**  \nTrong đoạn văn, câu mô tả địa điểm tập trung của các ca sởi nói: “Bệnh nhân chủ yếu",
+    "EM": 0.0,
+    "F1": 0.0417,
+    "ROUGE-L": 0.1013
+  },
+  {
+    "question": "Emmanuel Bilodeau nghĩ rằng con trai mình có thể là gì?",
+    "reference": "là nguyên nhân của đợt bùng phát sởi này",
+    "raw_prediction": "Emmanuel Bilodeau cho rằng con trai mình **có thể là nguyên nhân gây ra đợt bùng phát sởi**.",
+    "prediction": "Emmanuel Bilodeau cho rằng con trai mình **có thể là nguyên nhân gây ra đợt bùng phát sởi**.",
+    "EM": 0.0,
+    "F1": 0.4444,
+    "ROUGE-L": 0.5714
+  },
+  {
+    "question": "Trong chuyến du lịch đầu năm 2019, bé nhiễm gì?",
+    "reference": "bé nhiễm sởi",
+    "raw_prediction": "Trong chuyến du lịch đầu năm 2019, bé đã nhiễm **sởi**.",
+    "prediction": "Trong chuyến du lịch đầu năm 2019, bé đã nhiễm **sởi**.",
+    "EM": 0.0,
+    "F1": 0.2857,
+    "ROUGE-L": 0.5
+  },
+  {
+    "question": "Về nước bé lây cho các bạn từ hai trường khác do sao?",
+    "reference": "do đi chung xe buýt",
+    "raw_prediction": "**Phân tích:**  \n- Đoạn văn nêu rõ: “Trong chuyến du lịch đầu năm 2019, bé nhiễm sởi. **Về nước bé lây cho các bạn từ hai trường khác do đi chung xe buýt**.”  \n- Vì vậy, nguyên nhân lây lan là do việc",
+    "prediction": "**Phân tích:**  \n- Đoạn văn nêu rõ: “Trong chuyến du lịch đầu năm 2019, bé nhiễm sởi. **Về nước bé l",
+    "EM": 0.0,
+    "F1": 0.087,
+    "ROUGE-L": 0.0896
+  },
+  {
+    "question": "Từ một cô gái năng động, hoạt bát, bệnh gì khiến Phạm Mai Linh 25 tuổi ở Gia Lai trở thành một con người khác?",
+    "reference": "trầm cảm",
+    "raw_prediction": "**Phân tích:**  \n- Đoạn mở đầu mô tả Linh là “cô gái năng động, hoạt bát” nhưng sau đó nói “trầm cảm khiến Phạm Mai Linh 25 tuổi ở Gia Lai trở thành một con người khác”.  \n- Trong suốt câu chuyện, bện",
+    "prediction": "**Phân tích:**  \n- Đoạn mở đầu mô tả Linh là “cô gái năng động, hoạt bát” nhưng sau đó nói “trầm cảm",
+    "EM": 0.0,
+    "F1": 0.0421,
+    "ROUGE-L": 0.0552
+  },
+  {
+    "question": "Cô có những biểu hiện như thế nào với tất cả những việc xảy ra xung quanh sau cú sốc gia đình?",
+    "reference": "lầm lỳ, buồn chán và sợ hãi",
+    "raw_prediction": "Sau cú sốc gia đình (bố mẹ ly hôn, em trai đi tù), Phạm Mai Linh đã xuất hiện những biểu hiện tiêu cực mạnh mẽ:\n\n* **Lầm lỳ, buồn chán và sợ hãi** mọi việc, mọi hiện tượng xung quanh.  \n* **Khóc liên ",
+    "prediction": "Sau cú sốc gia đình (bố mẹ ly hôn, em trai đi tù), Phạm Mai Linh đã xuất hiện những biểu hiện tiêu c",
+    "EM": 0.0,
+    "F1": 0.0917,
+    "ROUGE-L": 0.1341
+  },
+  {
+    "question": "Cô ấy nghĩ gì để giải thoát những nổi ám ảnh?",
+    "reference": "tự tử",
+    "raw_prediction": "Trong giai đoạn trầm cảm nặng, cô cảm thấy “ý nghĩ muốn **tự tử để giải thoát** luôn ám ảnh mình mỗi ngày”. Đây là suy nghĩ cô đã có để muốn thoát khỏi những nỗi ám ảnh tiêu cực. (Trích đoạn: “Ý nghĩ ",
+    "prediction": "Trong giai đoạn trầm cảm nặng, cô cảm thấy “ý nghĩ muốn **tự tử để giải thoát** luôn ám ảnh mình mỗi",
+    "EM": 0.0,
+    "F1": 0.069,
+    "ROUGE-L": 0.0494
+  },
+  {
+    "question": "Nghe theo lời khuyên của huấn luyện viên, Linh tham gia hoạc động nào?",
+    "reference": "khóa tu Vipassana (thiền tịnh khẩu) trong một ngôi chùa tại Đồng Nai kéo dài 10 ngày",
+    "raw_prediction": "Theo lời khuyên của huấn luyện viên, Linh đã tạm dừng công việc và tham gia **khóa tu Vipassana (thiền tịnh khẩu) kéo dài 10 ngày tại một ngôi chùa ở Đồng Nai**.",
+    "prediction": "Theo lời khuyên của huấn luyện viên, Linh đã tạm dừng công việc và tham gia **khóa tu Vipassana (thi",
+    "EM": 0.0,
+    "F1": 0.56,
+    "ROUGE-L": 0.45
+  },
+  {
+    "question": "Mai Linh bây giờ đã biết những gì?",
+    "reference": "yêu thương bản thân, bớt sợ hãi và dễ dàng tìm thấy hạnh phúc từ những điều nhỏ bé trong cuộc sống",
+    "raw_prediction": "Mai Linh hiện đã **biết**:\n\n* **Yêu thương bản thân** – cô đã học cách chăm sóc và trân trọng chính mình.  \n* **Bớt sợ hãi** – nỗi lo sợ và hoảng loạn trước những biến cố đã giảm đi.  \n* **Tìm hạnh ph",
+    "prediction": "Mai Linh hiện đã **biết**:\n\n* **Yêu thương bản thân** – cô đã học cách chăm sóc và trân trọng chính ",
+    "EM": 0.0,
+    "F1": 0.1469,
+    "ROUGE-L": 0.2322
+  },
+  {
+    "question": "Tình yêu khiến hormone trong cơ thể như thế nào?",
+    "reference": "thay đổi, nhịp tim tăng cao và tâm trạng trở nên phấn chấn",
+    "raw_prediction": "Trong đoạn văn mô tả, khi con người yêu nhau **hormone trong cơ thể thay đổi** như sau:\n\n- **Nhịp tim tăng cao** và **tâm trạng trở nên phấn chấn**.  \n- **Mức độ dopamine** – hormone “hạnh phúc” – **t",
+    "prediction": "Trong đoạn văn mô tả, khi con người yêu nhau **hormone trong cơ thể thay đổi** như sau:\n\n- **Nhịp ti",
+    "EM": 0.0,
+    "F1": 0.1524,
+    "ROUGE-L": 0.2614
+  },
+  {
+    "question": "Khi gặp người phù hợp, cơ thể có xu hướng nào?",
+    "reference": "tương thích và kết nối với nhau",
+    "raw_prediction": "Khi gặp người phù hợp, **cơ thể có xu hướng tương thích và kết nối với nhau**. (theo đoạn “Khi gặp người phù hợp, cơ thể có xu hướng tương thích và kết nối với nhau.”)",
+    "prediction": "Khi gặp người phù hợp, **cơ thể có xu hướng tương thích và kết nối với nhau**. (theo đoạn “Khi gặp n",
+    "EM": 0.0,
+    "F1": 0.2791,
+    "ROUGE-L": 0.3582
+  },
+  {
+    "question": "Tác dụng của một phực hợp kháng nguyên bạch cầu là gì?",
+    "reference": "hệ miễn dịch phân biệt các tế bào tốt và tế bào xấu",
+    "raw_prediction": "**Tác dụng:** Phức hợp kháng nguyên bạch cầu (HLA) giúp hệ miễn dịch **phân biệt các tế bào “tốt” (tự thân) và các tế bào “xấu” (ngoại lai)**, từ đó xác định được những tế bào cần được bảo vệ và những",
+    "prediction": "**Tác dụng:** Phức hợp kháng nguyên bạch cầu (HLA) giúp hệ miễn dịch **phân biệt các tế bào “tốt” (t",
+    "EM": 0.0,
+    "F1": 0.3279,
+    "ROUGE-L": 0.4444
+  },
+  {
+    "question": "Gen phù hợp có đóng vai trò quan trọng hay không?",
+    "reference": "quan trọng",
+    "raw_prediction": "**Phân tích**  \n- Đoạn văn nêu rõ “gen phù hợp đóng vai trò quan trọng” trong quá trình yêu‑đương.  \n- Cơ chế được mô tả: phức hợp HLA (một loại gen) giúp cơ thể nhận diện và ưu tiên những người có HL",
+    "prediction": "**Phân tích**  \n- Đoạn văn nêu rõ “gen phù hợp đóng vai trò quan trọng” trong quá trình yêu‑đương.  ",
+    "EM": 0.0,
+    "F1": 0.0129,
+    "ROUGE-L": 0.0262
+  },
+  {
+    "question": "Khi bạn yêu hay thích một người phù hợp với mình về mặt di truyền, bạn sẽ ít bị gì?",
+    "reference": "trầm cảm hoặc căng thẳng hơn",
+    "raw_prediction": "Khi bạn yêu hay thích một người phù hợp với mình về mặt di truyền, bạn sẽ ít bị **trầm cảm** và **căng thẳng**.",
+    "prediction": "Khi bạn yêu hay thích một người phù hợp với mình về mặt di truyền, bạn sẽ ít bị **trầm cảm** và **că",
+    "EM": 0.0,
+    "F1": 0.0,
+    "ROUGE-L": 0.3137
+  },
+  {
+    "question": "Di chứng sau khi điều trị bệnh trĩ là gì?",
+    "reference": "hẹp và rối loạn chức năng hậu môn",
+    "raw_prediction": "Theo nội dung đã cho, các di chứng nặng nề có thể xuất hiện sau khi điều trị bệnh trĩ bao gồm **hẹp hậu môn** và **rối loạn chức năng hậu môn**. Đây là những hậu quả thường gặp khi bệnh nhân phải trải",
+    "prediction": "Theo nội dung đã cho, các di chứng nặng nề có thể xuất hiện sau khi điều trị bệnh trĩ bao gồm **hẹp ",
+    "EM": 0.0,
+    "F1": 0.1389,
+    "ROUGE-L": 0.2655
+  },
+  {
+    "question": "Bác sĩ chẩn đoán bệnh nhân bị bệnh gì?",
+    "reference": "trĩ hỗn hợp độ 4, hoại tử rộng vùng cơ hậu môn và tầng sinh môn",
+    "raw_prediction": "Bác sĩ chẩn đoán bệnh nhân bị **trĩ hỗn hợp độ 4, hoại tử rộng ở vùng cơ hậu môn và tầng sinh môn**.",
+    "prediction": "Bác sĩ chẩn đoán bệnh nhân bị **trĩ hỗn hợp độ 4, hoại tử rộng ở vùng cơ hậu môn và tầng sinh môn**.",
+    "EM": 0.0,
+    "F1": 0.7,
+    "ROUGE-L": 0.8
+  },
+  {
+    "question": "Bác sĩ khuyên những người mắc bệnh trực tràng không nên làm gì?",
+    "reference": "Không tự ý sử dụng thuốc nam, thuốc dân tộc không nguồn gốc, gây tiền mất tật mang",
+    "raw_prediction": "Bác sĩ khuyên người bệnh **không nên tự ý dùng thuốc nam, thuốc dân tộc không có nguồn gốc** mà thay vào đó phải tới các cơ sở y tế chuyên về hậu môn‑trực tràng để được khám và điều trị đúng cách.",
+    "prediction": "Bác sĩ khuyên người bệnh **không nên tự ý dùng thuốc nam, thuốc dân tộc không có nguồn gốc** mà thay",
+    "EM": 0.0,
+    "F1": 0.2951,
+    "ROUGE-L": 0.4742
+  },
+  {
+    "question": "Bệnh nhân trĩ thường kèm các bệnh lý như thế nào?",
+    "reference": "sa sàn chậu, rò hậu môn, áp xe hậu môn, nứt kẽ hậu môn, u trực tràng, sa niêm mạc trực tràng, sa sin",
+    "raw_prediction": "Bệnh nhân trĩ thường đồng thời mắc các bệnh lý vùng hậu môn‑trực tràng, bao gồm:\n\n- Sa sàn chậu  \n- Rò hậu môn  \n- Áp xe hậu môn  \n- Nứt kẽ hậu môn  \n- U trực tràng  \n- Sa niêm mạc trực tràng  \n- Sa s",
+    "prediction": "Bệnh nhân trĩ thường đồng thời mắc các bệnh lý vùng hậu môn‑trực tràng, bao gồm:\n\n- Sa sàn chậu  \n- ",
+    "EM": 0.0,
+    "F1": 0.4828,
+    "ROUGE-L": 0.7059
+  },
+  {
+    "question": "Các phương pháp điều trị trĩ phổ biến hiện nay là gì?",
+    "reference": "thắt trĩ bằng vòng cao su, khâu treo triệt mạch trĩ, cắt trí bằng các dụng cụ dao hàn mạch, dao siêu",
+    "raw_prediction": "Các phương pháp điều trị trĩ đang được áp dụng phổ biến hiện nay gồm:\n\n1. **Thắt trĩ bằng vòng cao su**  \n2. **Khâu treo (triệt) mạch trĩ**  \n3. **Cắt trĩ bằng các dụng cụ**:  \n   - Dao hàn mạch  \n   ",
+    "prediction": "Các phương pháp điều trị trĩ đang được áp dụng phổ biến hiện nay gồm:\n\n1. **Thắt trĩ bằng vòng cao s",
+    "EM": 0.0,
+    "F1": 0.304,
+    "ROUGE-L": 0.4712
+  },
+  {
+    "question": "Vì sao bệnh nhân bị đau mông, đùi và bàn chân?",
+    "reference": "đau thần kinh tọa do thoát vị đĩa đệm tầng L4 - L5",
+    "raw_prediction": "Bệnh nhân bị đau lan từ mông, đùi tới bàn chân do **thoát vị đĩa đệm tầng L4‑L5** gây **chèn ép nặng rễ thần kinh L5 bên phải**. Khi rễ L5 bị ép, tín hiệu đau truyền dọc theo dây thần kinh tọa (sciati",
+    "prediction": "Bệnh nhân bị đau lan từ mông, đùi tới bàn chân do **thoát vị đĩa đệm tầng L4‑L5** gây **chèn ép nặng",
+    "EM": 0.0,
+    "F1": 0.2222,
+    "ROUGE-L": 0.1846
+  },
+  {
+    "question": "Vì sao cần phẫu thuật gấp?",
+    "reference": "bệnh nhân có khối thoát vị lớn chèn ép nặng rễ L5 bên phải",
+    "raw_prediction": "Theo kết quả chụp MRI, bệnh nhân có **khối thoát vị đĩa đệm lớn** đang **chèn ép nặng rễ L5 bên phải**. Sự chèn ép mạnh này gây ra cơn đau lan xuống sau mông, đùi và bàn chân, kèm theo cảm giác tê, yế",
+    "prediction": "Theo kết quả chụp MRI, bệnh nhân có **khối thoát vị đĩa đệm lớn** đang **chèn ép nặng rễ L5 bên phải",
+    "EM": 0.0,
+    "F1": 0.1209,
+    "ROUGE-L": 0.1592
+  },
+  {
+    "question": "Bác sĩ Nhân khuyên người bệnh làm gì?",
+    "reference": "nghỉ ngơi, hạn chế làm việc, sử dụng thuốc đặc trị kèm theo chế độ tập vật lý trị liệu thích hợp",
+    "raw_prediction": "Bác sĩ Nguyễn Thành Nhân khuyên người bệnh:\n\n* Nghỉ ngơi, hạn chế làm việc nặng.  \n* Sử dụng thuốc đặc trị kết hợp chế độ vật lý trị liệu phù hợp.  \n* Tránh mang vác nặng, xoay bẻ cột sống quá mức và ",
+    "prediction": "Bác sĩ Nguyễn Thành Nhân khuyên người bệnh:\n\n* Nghỉ ngơi, hạn chế làm việc nặng.  \n* Sử dụng thuốc đ",
+    "EM": 0.0,
+    "F1": 0.3333,
+    "ROUGE-L": 0.3774
+  },
+  {
+    "question": "Nguyên nhân bệnh thoát vị đĩa đệm là gì?",
+    "reference": "người bệnh bị chấn thương, có bệnh lý về cột sống, người thường xuyên làm các công việc nặng nhọc, n",
+    "raw_prediction": "**Nguyên nhân gây thoát vị đĩa đệm (theo ngữ cảnh):**  \n\n- Chấn thương cột sống.  \n- Các bệnh lý liên quan đến cột sống.  \n- Thực hiện công việc nặng nhọc, mang vác, xoay bẻ cột sống quá mức.  \n- Ngồi",
+    "prediction": "**Nguyên nhân gây thoát vị đĩa đệm (theo ngữ cảnh):**  \n\n- Chấn thương cột sống.  \n- Các bệnh lý liê",
+    "EM": 0.0,
+    "F1": 0.4,
+    "ROUGE-L": 0.4891
+  },
+  {
+    "question": "Làm sao nhận biết một ai đó đang bị thoát vị đĩa đệm?",
+    "reference": "đau lưng dữ dội, cơn đau giảm khi nằm nhưng sẽ tái phát khi ngồi, đi lại hoặc hắt hơi",
+    "raw_prediction": "**Cách nhận biết người có thể bị thoát vị đĩa đệm (theo nội dung trên):**\n\n1. **Triệu chứng đau đặc trưng**  \n   - Đau lan xuống sau mông, đùi và bàn chân (đau thần kinh tọa).  \n   - Đau lưng dữ dội, ",
+    "prediction": "**Cách nhận biết người có thể bị thoát vị đĩa đệm (theo nội dung trên):**\n\n1. **Triệu chứng đau đặc ",
+    "EM": 0.0,
+    "F1": 0.1311,
+    "ROUGE-L": 0.1538
+  }
+]

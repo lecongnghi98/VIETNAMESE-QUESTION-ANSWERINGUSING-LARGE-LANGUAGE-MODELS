@@ -1,0 +1,59 @@
+{
+  "datasets": [
+    {
+      "name": "ViNewsQA",
+      "total_samples": 22082,
+      "splits": {
+        "Dev": 2512,
+        "Test": 1992,
+        "Train": 17578
+      },
+      "avg_context_words": 386.49,
+      "avg_question_words": 12.27,
+      "avg_answer_words": 12.52,
+      "quality": {
+        "missing_context": 0,
+        "missing_question": 0,
+        "missing_answer": 0,
+        "duplicate_questions": 311,
+        "unicode_issues": 5
+      }
+    },
+    {
+      "name": "UIT-ViCoV19QA",
+      "total_samples": 4500,
+      "splits": {
+        "Dev": 500,
+        "Test": 500,
+        "Train": 3500
+      },
+      "avg_context_words": 0.0,
+      "avg_question_words": 33.86,
+      "avg_answer_words": 138.62,
+      "quality": {
+        "missing_context": 4500,
+        "missing_question": 0,
+        "missing_answer": 0,
+        "duplicate_questions": 25,
+        "unicode_issues": 91
+      }
+    },
+    {
+      "name": "ViSpanExtractQA",
+      "total_samples": 97189,
+      "splits": {
+        "train": 97189
+      },
+      "avg_context_words": 166.59,
+      "avg_question_words": 13.44,
+      "avg_answer_words": 5.32,
+      "quality": {
+        "missing_context": 0,
+        "missing_question": 0,
+        "missing_answer": 6,
+        "duplicate_questions": 2965,
+        "unicode_issues": 31
+      }
+    }
+  ]
+}

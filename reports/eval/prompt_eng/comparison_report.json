@@ -1,0 +1,122 @@
+[
+  {
+    "strategy": "P0",
+    "strategy_name": "Baseline",
+    "model": "gpt-oss-120b",
+    "dataset": "ViSpanExtractQA",
+    "num_samples": 50,
+    "EM": 0.0,
+    "F1": 0.1487,
+    "ROUGE-L": 0.3418
+  },
+  {
+    "strategy": "P0",
+    "strategy_name": "Baseline",
+    "model": "gpt-oss-120b",
+    "dataset": "ViNewsQA",
+    "num_samples": 50,
+    "EM": 0.0,
+    "F1": 0.2506,
+    "ROUGE-L": 0.3907
+  },
+  {
+    "strategy": "P0",
+    "strategy_name": "Baseline",
+    "model": "Llama-3.3-70B-Instruct",
+    "dataset": "ViSpanExtractQA",
+    "num_samples": 50,
+    "EM": 0.04,
+    "F1": 0.3195,
+    "ROUGE-L": 0.3849
+  },
+  {
+    "strategy": "P0",
+    "strategy_name": "Baseline",
+    "model": "Llama-3.3-70B-Instruct",
+    "dataset": "ViNewsQA",
+    "num_samples": 50,
+    "EM": 0.0,
+    "F1": 0.4451,
+    "ROUGE-L": 0.5204
+  },
+  {
+    "strategy": "P1",
+    "strategy_name": "Extractive",
+    "model": "Llama-3.3-70B-Instruct",
+    "dataset": "ViNewsQA",
+    "num_samples": 1992,
+    "EM": 0.4794,
+    "F1": 0.8205,
+    "ROUGE-L": 0.8367
+  },
+  {
+    "strategy": "P1",
+    "strategy_name": "Extractive",
+    "model": "Llama-3.3-70B-Instruct",
+    "dataset": "ViSpanExtractQA",
+    "num_samples": 2000,
+    "EM": 0.487,
+    "F1": 0.7567,
+    "ROUGE-L": 0.7685
+  },
+  {
+    "strategy": "P4",
+    "strategy_name": "Chain-of-Thought",
+    "model": "Llama-3.3-70B-Instruct",
+    "dataset": "ViNewsQA",
+    "num_samples": 1992,
+    "EM": 0.373,
+    "F1": 0.7068,
+    "ROUGE-L": 0.7271
+  },
+  {
+    "strategy": "P4",
+    "strategy_name": "Chain-of-Thought",
+    "model": "Llama-3.3-70B-Instruct",
+    "dataset": "ViSpanExtractQA",
+    "num_samples": 2000,
+    "EM": 0.4835,
+    "F1": 0.7697,
+    "ROUGE-L": 0.7814
+  },
+  {
+    "strategy": "P1",
+    "strategy_name": "Extractive",
+    "model": "gpt-oss-120b",
+    "dataset": "ViNewsQA",
+    "num_samples": 1992,
+    "EM": 0.1516,
+    "F1": 0.2693,
+    "ROUGE-L": 0.276
+  },
+  {
+    "strategy": "P1",
+    "strategy_name": "Extractive",
+    "model": "gpt-oss-120b",
+    "dataset": "ViSpanExtractQA",
+    "num_samples": 2000,
+    "EM": 0.267,
+    "F1": 0.3892,
+    "ROUGE-L": 0.3951
+  },
+  {
+    "strategy": "P4",
+    "strategy_name": "Chain-of-Thought",
+    "model": "gpt-oss-120b",
+    "dataset": "ViNewsQA",
+    "num_samples": 1992,
+    "EM": 0.1657,
+    "F1": 0.5109,
+    "ROUGE-L": 0.5725
+  },
+  {
+    "strategy": "P4",
+    "strategy_name": "Chain-of-Thought",
+    "model": "gpt-oss-120b",
+    "dataset": "ViSpanExtractQA",
+    "num_samples": 2000,
+    "EM": 0.2635,
+    "F1": 0.5897,
+    "ROUGE-L": 0.6459
+  }
+]

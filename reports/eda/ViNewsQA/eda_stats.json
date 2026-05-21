@@ -1,0 +1,80 @@
+{
+  "dataset_name": "ViNewsQA",
+  "total_samples": 22082,
+  "splits": {
+    "Dev": 2512,
+    "Test": 1992,
+    "Train": 17578
+  },
+  "word_length": {
+    "context": {
+      "count": 22082,
+      "min": 102,
+      "max": 801,
+      "mean": 386.49,
+      "median": 361.0,
+      "std": 154.74,
+      "q25": 266.0,
+      "q75": 492.0
+    },
+    "question": {
+      "count": 22082,
+      "min": 3,
+      "max": 47,
+      "mean": 12.27,
+      "median": 12.0,
+      "std": 4.24,
+      "q25": 9.0,
+      "q75": 15.0
+    },
+    "answer": {
+      "count": 22082,
+      "min": 1,
+      "max": 164,
+      "mean": 12.52,
+      "median": 10.0,
+      "std": 10.37,
+      "q25": 5.0,
+      "q75": 17.0
+    }
+  },
+  "char_length": {
+    "context": {
+      "count": 22082,
+      "min": 484,
+      "max": 3497,
+      "mean": 1756.61,
+      "median": 1647.0,
+      "std": 703.3,
+      "q25": 1209.0,
+      "q75": 2231.0
+    },
+    "question": {
+      "count": 22082,
+      "min": 9,
+      "max": 210,
+      "mean": 53.44,
+      "median": 51.0,
+      "std": 19.02,
+      "q25": 40.0,
+      "q75": 64.0
+    },
+    "answer": {
+      "count": 22082,
+      "min": 1,
+      "max": 751,
+      "mean": 55.51,
+      "median": 45.0,
+      "std": 46.82,
+      "q25": 22.0,
+      "q75": 76.75
+    }
+  },
+  "quality": {
+    "missing_context": 0,
+    "missing_question": 0,
+    "missing_answer": 0,
+    "duplicate_questions": 311,
+    "unicode_issues": 5
+  }
+}

@@ -1,0 +1,452 @@
+[
+  {
+    "question": "chủ tịch tập đoàn Sunhouse là ai",
+    "reference": "Nguyễn Xuân Phú",
+    "raw_prediction": "Dựa trên ngữ cảnh, chúng ta có thông tin về Chủ tịch HĐQT Tập đoàn Sunhouse. \n\nTrả lời: Chủ tịch HĐQT Tập đoàn Sunhouse là Nguyễn Xuân Phú.",
+    "prediction": "Dựa trên ngữ cảnh, chúng ta có thông tin về Chủ tịch HĐQT Tập đoàn Sunhouse. \n\nTrả lời: Chủ tịch HĐQ",
+    "EM": 0.0,
+    "F1": 0.129,
+    "ROUGE-L": 0.2041
+  },
+  {
+    "question": "Ai là tổng giám đốc của tập đoàn FPT",
+    "reference": "Trương Đình Anh",
+    "raw_prediction": "Tổng giám đốc của Tập đoàn FPT là Trương Đình Anh.",
+    "prediction": "Tổng giám đốc của Tập đoàn FPT là Trương Đình Anh.",
+    "EM": 0.0,
+    "F1": 0.2857,
+    "ROUGE-L": 0.381
+  },
+  {
+    "question": "Nhân vật nào được mệnh danh là \"Người đàn bà thép của nước Anh\"?",
+    "reference": "Margaret Thatcher",
+    "raw_prediction": "Margaret Thatcher được mệnh danh là \"người đàn bà thép\" của nước Anh.",
+    "prediction": "Margaret Thatcher được mệnh danh là \"người đàn bà thép\" của nước Anh.",
+    "EM": 0.0,
+    "F1": 0.2667,
+    "ROUGE-L": 0.2
+  },
+  {
+    "question": "Con gái của An Dương Vương là ai",
+    "reference": "Mỵ Nương",
+    "raw_prediction": "Dựa trên ngữ cảnh, câu trả lời là Mỵ Nương, cũng được nhắc đến là công chúa Mỵ Châu.",
+    "prediction": "Dựa trên ngữ cảnh, câu trả lời là Mỵ Nương, cũng được nhắc đến là công chúa Mỵ Châu.",
+    "EM": 0.0,
+    "F1": 0.0952,
+    "ROUGE-L": 0.1818
+  },
+  {
+    "question": "Ai là chủ tịch tập đoàn Viettel",
+    "reference": "Lê Đăng Dũng",
+    "raw_prediction": "Dựa trên ngữ cảnh, Thiếu tướng Lê Đăng Dũng được giao quyền Chủ tịch, Tổng Giám đốc Tập đoàn Viettel. \n\nDo đó, người đang giữ vị trí Chủ tịch (được giao quyền) của tập đoàn Viettel là Thiếu tướng Lê Đ",
+    "prediction": "Dựa trên ngữ cảnh, Thiếu tướng Lê Đăng Dũng được giao quyền Chủ tịch, Tổng Giám đốc Tập đoàn Viettel",
+    "EM": 0.0,
+    "F1": 0.1333,
+    "ROUGE-L": 0.1212
+  },
+  {
+    "question": "Diễn viên nào đóng vai Tôn Ngộ Không",
+    "reference": "Chân Tử Đan",
+    "raw_prediction": "Trong ngữ cảnh này, có hai diễn viên được nhắc đến là Chân Tử Đan và Quách Phú Thành, mỗi người đóng vai Tôn Ngộ Không trong hai bộ phim khác nhau. \n\n- Chân Tử Đan đóng vai Tôn Ngộ Không trong phim \"Đ",
+    "prediction": "Trong ngữ cảnh này, có hai diễn viên được nhắc đến là Chân Tử Đan và Quách Phú Thành, mỗi người đóng",
+    "EM": 0.0,
+    "F1": 0.0652,
+    "ROUGE-L": 0.063
+  },
+  {
+    "question": "Ai là huấn luyện viên của Real Madrid",
+    "reference": "José Mourinho",
+    "raw_prediction": "Huấn luyện viên trưởng của Real Madrid là José Mourinho.",
+    "prediction": "Huấn luyện viên trưởng của Real Madrid là José Mourinho.",
+    "EM": 0.0,
+    "F1": 0.1667,
+    "ROUGE-L": 0.2353
+  },
+  {
+    "question": "Ca sĩ nào hát bài chạy ngay đi",
+    "reference": "Sơn Tùng M-TP",
+    "raw_prediction": "Ca sĩ Sơn Tùng M-TP hát bài \"Chạy ngay đi\".",
+    "prediction": "Ca sĩ Sơn Tùng M-TP hát bài \"Chạy ngay đi\".",
+    "EM": 0.0,
+    "F1": 0.4615,
+    "ROUGE-L": 0.5455
+  },
+  {
+    "question": "Vị vua nào sau đây đã đổi quốc hiệu nước ta thành Đại Nam?",
+    "reference": "Minh Mạng",
+    "raw_prediction": "Theo ngữ cảnh, vị vua đã đổi quốc hiệu nước ta thành Đại Nam là vua Minh Mạng nhà Nguyễn.",
+    "prediction": "Theo ngữ cảnh, vị vua đã đổi quốc hiệu nước ta thành Đại Nam là vua Minh Mạng nhà Nguyễn.",
+    "EM": 0.0,
+    "F1": 0.1818,
+    "ROUGE-L": 0.2069
+  },
+  {
+    "question": "Bộ trưởng bộ quốc phòng Việt Nam là ai",
+    "reference": "Ngô Xuân Lịch",
+    "raw_prediction": "Đọc kỹ ngữ cảnh, chúng ta thấy thông tin về Bộ trưởng Bộ Quốc phòng Việt Nam như sau: \"Đại tướng Ngô Xuân Lịch , Uỷ viên Bộ Chính trị , Phó Bí thư Quân uỷ Trung ương , Bộ trưởng Bộ Quốc phòng Việt Nam",
+    "prediction": "Đọc kỹ ngữ cảnh, chúng ta thấy thông tin về Bộ trưởng Bộ Quốc phòng Việt Nam như sau: \"Đại tướng Ngô",
+    "EM": 0.0,
+    "F1": 0.0952,
+    "ROUGE-L": 0.1136
+  },
+  {
+    "question": "Con gái của Hồ Việt Trung",
+    "reference": "Xí Muội",
+    "raw_prediction": "Con gái của Hồ Việt Trung tên là Xí Muội, vào thời điểm tháng 5/2018, cô bé khoảng 2-3 tuổi.",
+    "prediction": "Con gái của Hồ Việt Trung tên là Xí Muội, vào thời điểm tháng 5/2018, cô bé khoảng 2-3 tuổi.",
+    "EM": 0.0,
+    "F1": 0.0909,
+    "ROUGE-L": 0.1667
+  },
+  {
+    "question": "Ai là chủ tịch tập đoàn Hòa Phát",
+    "reference": "Trần Đình Long",
+    "raw_prediction": "Theo ngữ cảnh, chủ tịch tập đoàn Hòa Phát là Trần Đình Long.",
+    "prediction": "Theo ngữ cảnh, chủ tịch tập đoàn Hòa Phát là Trần Đình Long.",
+    "EM": 0.0,
+    "F1": 0.25,
+    "ROUGE-L": 0.3333
+  },
+  {
+    "question": "Vị vua nào sau đây đã đổi quốc hiệu nước ta thành Đại Nam?",
+    "reference": "Minh Mạng",
+    "raw_prediction": "Vị vua đã đổi quốc hiệu nước ta thành Đại Nam là vua Minh Mạng.",
+    "prediction": "Vị vua đã đổi quốc hiệu nước ta thành Đại Nam là vua Minh Mạng.",
+    "EM": 0.0,
+    "F1": 0.1176,
+    "ROUGE-L": 0.2727
+  },
+  {
+    "question": "Ai là chủ tịch tập đoàn SCG",
+    "reference": "Roongrote Rangsiyopash",
+    "raw_prediction": "Theo ngữ cảnh, chủ tịch tập đoàn SCG là ông Roongrote Rangsiyopash.",
+    "prediction": "Theo ngữ cảnh, chủ tịch tập đoàn SCG là ông Roongrote Rangsiyopash.",
+    "EM": 0.0,
+    "F1": 0.1429,
+    "ROUGE-L": 0.2222
+  },
+  {
+    "question": "Người giàu nhất thế giới năm 2012?",
+    "reference": "Carlos Slim",
+    "raw_prediction": "Người giàu nhất thế giới năm 2012 là Carlos Slim, \"ông trùm\" viễn thông Mexico, người chủ quản tập đoàn America Movil SAB.",
+    "prediction": "Người giàu nhất thế giới năm 2012 là Carlos Slim, \"ông trùm\" viễn thông Mexico, người chủ quản tập đ",
+    "EM": 0.0,
+    "F1": 0.08,
+    "ROUGE-L": 0.1081
+  },
+  {
+    "question": "Ai được mệnh danh là Messi của Việt Nam",
+    "reference": "Công Phượng",
+    "raw_prediction": "Căn cứ vào ngữ cảnh, Công Phượng được mệnh danh là \"phiên bản Messi chuẩn nhất\" của bóng đá Việt Nam. \n\nVậy, người được mệnh danh là Messi của Việt Nam là Công Phượng.",
+    "prediction": "Căn cứ vào ngữ cảnh, Công Phượng được mệnh danh là \"phiên bản Messi chuẩn nhất\" của bóng đá Việt Nam",
+    "EM": 0.0,
+    "F1": 0.1111,
+    "ROUGE-L": 0.1404
+  },
+  {
+    "question": "chủ tịch tập đoàn Viettel là ai",
+    "reference": "Lê Đăng Dũng",
+    "raw_prediction": "Dựa trên ngữ cảnh, Thiếu tướng Lê Đăng Dũng được bổ nhiệm làm phụ trách Chủ tịch kiêm Tổng giám đốc Tập đoàn Viettel. Do đó, chủ tịch tập đoàn Viettel là Thiếu tướng Lê Đăng Dũng.",
+    "prediction": "Dựa trên ngữ cảnh, Thiếu tướng Lê Đăng Dũng được bổ nhiệm làm phụ trách Chủ tịch kiêm Tổng giám đốc ",
+    "EM": 0.0,
+    "F1": 0.15,
+    "ROUGE-L": 0.1311
+  },
+  {
+    "question": "Tổng thống Thụy Sỹ",
+    "reference": "Alain Berset",
+    "raw_prediction": "Tổng thống Thụy Sỹ là Alain Berset.",
+    "prediction": "Tổng thống Thụy Sỹ là Alain Berset.",
+    "EM": 0.0,
+    "F1": 0.2222,
+    "ROUGE-L": 0.3333
+  },
+  {
+    "question": "Ai là chủ tịch tập đoàn FLC",
+    "reference": "Trịnh Văn Quyết",
+    "raw_prediction": "Trong ngữ cảnh trên, người được nhắc đến với vai trò Chủ tịch Tập đoàn FLC là Trịnh Văn Quyết. \n\nVậy, người trả lời cho câu hỏi \"Ai là chủ tịch tập đoàn FLC\" là Trịnh Văn Quyết.",
+    "prediction": "Trong ngữ cảnh trên, người được nhắc đến với vai trò Chủ tịch Tập đoàn FLC là Trịnh Văn Quyết. \n\nVậy",
+    "EM": 0.0,
+    "F1": 0.0976,
+    "ROUGE-L": 0.1818
+  },
+  {
+    "question": "Cầu thủ nào được gọi là cậu bé vàng",
+    "reference": "Anderson",
+    "raw_prediction": "Cầu thủ Anderson được gọi là \"Cậu bé Vàng\" một năm sau khi được Sir Alex Ferguson chiêu mộ về Man United vào năm 2007.",
+    "prediction": "Cầu thủ Anderson được gọi là \"Cậu bé Vàng\" một năm sau khi được Sir Alex Ferguson chiêu mộ về Man Un",
+    "EM": 0.0,
+    "F1": 0.0769,
+    "ROUGE-L": 0.0571
+  },
+  {
+    "question": "vợ của Võ Nguyên Giáp là ai",
+    "reference": "Nguyễn Thị Quang Thái",
+    "raw_prediction": "Dựa trên ngữ cảnh, vợ của Võ Nguyên Giáp là Nguyễn Thị Quang Thái.",
+    "prediction": "Dựa trên ngữ cảnh, vợ của Võ Nguyên Giáp là Nguyễn Thị Quang Thái.",
+    "EM": 0.0,
+    "F1": 0.3333,
+    "ROUGE-L": 0.4286
+  },
+  {
+    "question": "Ai là chủ biên cuốn sách Những dấu vết thời đại đồng thau",
+    "reference": "Lê Văn Lan , Phạm Văn Kỉnh , Nguyễn Linh",
+    "raw_prediction": "Trong ngữ cảnh trên, không đề cập đến \"cuốn sách Những dấu vết thời đại đồng thau\" mà đề cập đến \"cuốn Những vết tích đầu tiên của thời đại đồng thau ở Việt Nam\". \n\nDo đó, dựa trên thông tin có sẵn, c",
+    "prediction": "Trong ngữ cảnh trên, không đề cập đến \"cuốn sách Những dấu vết thời đại đồng thau\" mà đề cập đến \"cu",
+    "EM": 0.0,
+    "F1": 0.1446,
+    "ROUGE-L": 0.2114
+  },
+  {
+    "question": "Tổng thống Ba Lan là ai",
+    "reference": "Lech Kaczynski",
+    "raw_prediction": "Tổng thống Ba Lan là Lech Kaczynski.",
+    "prediction": "Tổng thống Ba Lan là Lech Kaczynski.",
+    "EM": 0.0,
+    "F1": 0.2222,
+    "ROUGE-L": 0.3636
+  },
+  {
+    "question": "Mẹ của Nguyễn Tấn Dũng là ai",
+    "reference": "Nguyễn Thị Hường",
+    "raw_prediction": "Dựa trên ngữ cảnh, bà Nguyễn Thị Hường là mẹ của nguyên Thủ tướng Nguyễn Tấn Dũng.",
+    "prediction": "Dựa trên ngữ cảnh, bà Nguyễn Thị Hường là mẹ của nguyên Thủ tướng Nguyễn Tấn Dũng.",
+    "EM": 0.0,
+    "F1": 0.3,
+    "ROUGE-L": 0.303
+  },
+  {
+    "question": "Tên thật của nhà văn Tô Hoài?",
+    "reference": "Nguyễn Sen",
+    "raw_prediction": "Tên thật của nhà văn Tô Hoài là Nguyễn Sen.",
+    "prediction": "Tên thật của nhà văn Tô Hoài là Nguyễn Sen.",
+    "EM": 0.0,
+    "F1": 0.1667,
+    "ROUGE-L": 0.3158
+  },
+  {
+    "question": "Tổng thống Chile",
+    "reference": "Sebastian Piñera",
+    "raw_prediction": "Tổng thống Chile là Sebastian Piñera, nhậm chức nhiệm kỳ 2018-2022.",
+    "prediction": "Tổng thống Chile là Sebastian Piñera, nhậm chức nhiệm kỳ 2018-2022.",
+    "EM": 0.0,
+    "F1": 0.1538,
+    "ROUGE-L": 0.2857
+  },
+  {
+    "question": "Trưởng ban Tuyên giáo Trung ương là ai",
+    "reference": "Võ Văn Thưởng",
+    "raw_prediction": "Trưởng ban Tuyên giáo Trung ương là ông Võ Văn Thưởng.",
+    "prediction": "Trưởng ban Tuyên giáo Trung ương là ông Võ Văn Thưởng.",
+    "EM": 0.0,
+    "F1": 0.2857,
+    "ROUGE-L": 0.4762
+  },
+  {
+    "question": "Nhà thơ được mệnh danh là Nữ hoàng tình yêu?",
+    "reference": "Xuân Quỳnh",
+    "raw_prediction": "Dựa trên ngữ cảnh, nhà thơ được mệnh danh là \"Nữ hoàng tình yêu\" là Nữ sĩ Xuân Quỳnh.",
+    "prediction": "Dựa trên ngữ cảnh, nhà thơ được mệnh danh là \"Nữ hoàng tình yêu\" là Nữ sĩ Xuân Quỳnh.",
+    "EM": 0.0,
+    "F1": 0.0952,
+    "ROUGE-L": 0.25
+  },
+  {
+    "question": "Theo thần thoại Hy Lạp, Saturn là tên vị thần nào?",
+    "reference": "Cronus",
+    "raw_prediction": "Theo ngữ cảnh, Saturn là tên vị thần trong thần thoại La Mã, tương đương với Cronus trong thần thoại Hy Lạp. \n\nVậy, theo thần thoại Hy Lạp, không có vị thần nào tên là Saturn, mà Saturn là tên vị thần",
+    "prediction": "Theo ngữ cảnh, Saturn là tên vị thần trong thần thoại La Mã, tương đương với Cronus trong thần thoại",
+    "EM": 0.0,
+    "F1": 0.0385,
+    "ROUGE-L": 0.0263
+  },
+  {
+    "question": "Bộ phim Jurassic Park do ai làm đạo diễn?",
+    "reference": "Steven Spielberg",
+    "raw_prediction": "Bộ phim Jurassic Park do đạo diễn Steven Spielberg làm đạo diễn.",
+    "prediction": "Bộ phim Jurassic Park do đạo diễn Steven Spielberg làm đạo diễn.",
+    "EM": 0.0,
+    "F1": 0.2857,
+    "ROUGE-L": 0.2353
+  },
+  {
+    "question": "Vận động viên nào giành huy chương vàng Olympic 2012 môn quần vợt đơn nam?",
+    "reference": "Murray",
+    "raw_prediction": "Andy Murray là vận động viên giành HCV đơn nam Thế vận hội 2012.",
+    "prediction": "Andy Murray là vận động viên giành HCV đơn nam Thế vận hội 2012.",
+    "EM": 0.0,
+    "F1": 0.1333,
+    "ROUGE-L": 0.1
+  },
+  {
+    "question": "Cầu thủ nào đoạt danh hiệu Quả bóng vàng Việt Nam đầu tiên?",
+    "reference": "Lê Huỳnh Đức",
+    "raw_prediction": "Để trả lời câu hỏi này, tôi sẽ đọc kỹ ngữ cảnh và xác định thông tin quan trọng liên quan đến câu hỏi.\n\nNgữ cảnh cho biết: \"Người đoạt Quả bóng vàng đầu tiên của Việt Nam là tiền đạo Lê Huỳnh Đức.\"\n\nD",
+    "prediction": "Để trả lời câu hỏi này, tôi sẽ đọc kỹ ngữ cảnh và xác định thông tin quan trọng liên quan đến câu hỏ",
+    "EM": 0.0,
+    "F1": 0.075,
+    "ROUGE-L": 0.065
+  },
+  {
+    "question": "Ai là ông tổ nghề thêu Việt Nam ?",
+    "reference": "Lê Công Hành",
+    "raw_prediction": "Theo ngữ cảnh, Lê Công Hành là ông tổ nghề thêu Việt Nam.",
+    "prediction": "Theo ngữ cảnh, Lê Công Hành là ông tổ nghề thêu Việt Nam.",
+    "EM": 0.0,
+    "F1": 0.375,
+    "ROUGE-L": 0.4348
+  },
+  {
+    "question": "Ai là vợ của Odin",
+    "reference": "Frigg",
+    "raw_prediction": "Vợ của thần Odin là nữ thần Frigg.",
+    "prediction": "Vợ của thần Odin là nữ thần Frigg.",
+    "EM": 0.0,
+    "F1": 0.0,
+    "ROUGE-L": 0.1667
+  },
+  {
+    "question": "Mẹ của Thẩm Thuý Hằng là ai",
+    "reference": "Nguyễn Thuỵ Thị Hằng",
+    "raw_prediction": "Ngữ cảnh không cung cấp thông tin về mẹ của Thẩm Thuý Hằng. Thay vào đó, nó đề cập đến việc Thẩm Thuý Hằng đã gửi con gái của mình cho cha mẹ nuôi và con gái của bà, Nguyễn Thuỵ Thị Hằng, đã cự tuyệt ",
+    "prediction": "Ngữ cảnh không cung cấp thông tin về mẹ của Thẩm Thuý Hằng. Thay vào đó, nó đề cập đến việc Thẩm Thu",
+    "EM": 0.0,
+    "F1": 0.1111,
+    "ROUGE-L": 0.1188
+  },
+  {
+    "question": "Tác phẩm Bình Ngô đại cáo là của ai",
+    "reference": "Nguyễn Trãi",
+    "raw_prediction": "Dựa trên ngữ cảnh, tác phẩm \"Bình Ngô đại cáo\" được nhắc đến trong danh sách các tác phẩm của Nguyễn Trãi. Do đó, tác phẩm \"Bình Ngô đại cáo\" là của Nguyễn Trãi.",
+    "prediction": "Dựa trên ngữ cảnh, tác phẩm \"Bình Ngô đại cáo\" được nhắc đến trong danh sách các tác phẩm của Nguyễn",
+    "EM": 0.0,
+    "F1": 0.0556,
+    "ROUGE-L": 0.1356
+  },
+  {
+    "question": "ai là người dẫn chương trình đường lên đỉnh olympia",
+    "reference": "Diệp Chi",
+    "raw_prediction": "MC Diệp Chi là người dẫn chương trình Đường lên đỉnh Olympia từ năm thứ 17.",
+    "prediction": "MC Diệp Chi là người dẫn chương trình Đường lên đỉnh Olympia từ năm thứ 17.",
+    "EM": 0.0,
+    "F1": 0.2222,
+    "ROUGE-L": 0.2308
+  },
+  {
+    "question": "Ai là vợ của Donald Trump",
+    "reference": "Melania",
+    "raw_prediction": "Melania là vợ của Donald Trump.",
+    "prediction": "Melania là vợ của Donald Trump.",
+    "EM": 0.0,
+    "F1": 0.2857,
+    "ROUGE-L": 0.25
+  },
+  {
+    "question": "Ca khúc Hà Nội mùa vắng những cơn mưa là sáng tác của nhạc sỹ nào",
+    "reference": "Hải",
+    "raw_prediction": "Dựa trên ngữ cảnh, chúng ta thấy rằng nhân vật \"Anh Hải\" là người vừa sáng tác xong ca khúc mới với tựa \"Hà Nội mùa vắng những cơn mưa\". Do đó, có thể kết luận rằng ca khúc này là sáng tác của Anh Hải",
+    "prediction": "Dựa trên ngữ cảnh, chúng ta thấy rằng nhân vật \"Anh Hải\" là người vừa sáng tác xong ca khúc mới với ",
+    "EM": 0.0,
+    "F1": 0.0,
+    "ROUGE-L": 0.037
+  },
+  {
+    "question": "Ai là người tìm ra tia X",
+    "reference": "Rơn-ghen",
+    "raw_prediction": "Wilhelm Conrad Röntgen là người đầu tiên tìm ra tia X, sau này được gọi là tia Rơn-ghen.",
+    "prediction": "Wilhelm Conrad Röntgen là người đầu tiên tìm ra tia X, sau này được gọi là tia Rơn-ghen.",
+    "EM": 0.0,
+    "F1": 0.0,
+    "ROUGE-L": 0.2069
+  },
+  {
+    "question": "Tên thật của chúa Sãi là gì ?",
+    "reference": "Nguyễn Phúc Nguyên",
+    "raw_prediction": "Tên thật của chúa Sãi là Nguyễn Phúc Nguyên.",
+    "prediction": "Tên thật của chúa Sãi là Nguyễn Phúc Nguyên.",
+    "EM": 0.0,
+    "F1": 0.3333,
+    "ROUGE-L": 0.5217
+  },
+  {
+    "question": "chồng của Nhật Kim Anh",
+    "reference": "Bửu Lộc",
+    "raw_prediction": "Đọc kỹ ngữ cảnh, chúng ta thấy thông tin về chồng của Nhật Kim Anh là \"Bửu Lộc\". \n\nVậy, chồng của Nhật Kim Anh là Bửu Lộc.",
+    "prediction": "Đọc kỹ ngữ cảnh, chúng ta thấy thông tin về chồng của Nhật Kim Anh là \"Bửu Lộc\". \n\nVậy, chồng của Nh",
+    "EM": 0.0,
+    "F1": 0.069,
+    "ROUGE-L": 0.1739
+  },
+  {
+    "question": "Ai là ông tổ nghề thêu Việt Nam ?",
+    "reference": "Lê Công Hành",
+    "raw_prediction": "Để trả lời câu hỏi này, tôi sẽ đọc kỹ ngữ cảnh và xác định thông tin quan trọng liên quan đến câu hỏi.\n\nNgữ cảnh cho biết nhiều người lầm tưởng ông tổ nghề thêu của Việt Nam là ông Trần Quốc Khái, như",
+    "prediction": "Để trả lời câu hỏi này, tôi sẽ đọc kỹ ngữ cảnh và xác định thông tin quan trọng liên quan đến câu hỏ",
+    "EM": 0.0,
+    "F1": 0.0333,
+    "ROUGE-L": 0.0559
+  },
+  {
+    "question": "Ai là chủ tịch tập đoàn Hoa sen",
+    "reference": "Vũ",
+    "raw_prediction": "Dựa trên ngữ cảnh, ông Vũ là Chủ tịch của Công ty TNHH Tập đoàn Đầu tư Hoa Sen.",
+    "prediction": "Dựa trên ngữ cảnh, ông Vũ là Chủ tịch của Công ty TNHH Tập đoàn Đầu tư Hoa Sen.",
+    "EM": 0.0,
+    "F1": 0.1,
+    "ROUGE-L": 0.0714
+  },
+  {
+    "question": "Cầu thủ nào là cầu thủ xuất sắc nhất World cup 2010 tại Nam Phi?",
+    "reference": "Diego Forlan",
+    "raw_prediction": "Câu hỏi yêu cầu thông tin về cầu thủ xuất sắc nhất World Cup 2010. \n\nTrong ngữ cảnh, thông tin liên quan đến câu hỏi là: \"Diego Forlan đã vượt qua Wesley Sneijder và David Villa để trở thành Cầu thủ x",
+    "prediction": "Câu hỏi yêu cầu thông tin về cầu thủ xuất sắc nhất World Cup 2010. \n\nTrong ngữ cảnh, thông tin liên ",
+    "EM": 0.0,
+    "F1": 0.0702,
+    "ROUGE-L": 0.0526
+  },
+  {
+    "question": "Con gái của Hồ Việt Trung",
+    "reference": "Gia Hân",
+    "raw_prediction": "Con gái của Hồ Việt Trung là Gia Hân, tên ở nhà là Xí Muội.",
+    "prediction": "Con gái của Hồ Việt Trung là Gia Hân, tên ở nhà là Xí Muội.",
+    "EM": 0.0,
+    "F1": 0.1176,
+    "ROUGE-L": 0.2609
+  },
+  {
+    "question": "Ai đang nắm giữ kỷ lục chạy 100m nhanh nhất",
+    "reference": "Usain Bolt",
+    "raw_prediction": "Theo ngữ cảnh, người đang nắm giữ kỷ lục chạy 100m nhanh nhất là Usain Bolt, vận động viên điền kinh người Jamaica, với thời gian 9,58 giây.",
+    "prediction": "Theo ngữ cảnh, người đang nắm giữ kỷ lục chạy 100m nhanh nhất là Usain Bolt, vận động viên điền kinh",
+    "EM": 0.0,
+    "F1": 0.0667,
+    "ROUGE-L": 0.0909
+  },
+  {
+    "question": "Ai là người sáng lập SoftBank",
+    "reference": "Son",
+    "raw_prediction": "Người sáng lập SoftBank là ông Son.",
+    "prediction": "Người sáng lập SoftBank là ông Son.",
+    "EM": 0.0,
+    "F1": 0.0,
+    "ROUGE-L": 0.1818
+  },
+  {
+    "question": "Tác phẩm vợ nhặt là của ai",
+    "reference": "Kim Lân",
+    "raw_prediction": "Tác phẩm \"Vợ Nhặt\" là của nhà văn Kim Lân.",
+    "prediction": "Tác phẩm \"Vợ Nhặt\" là của nhà văn Kim Lân.",
+    "EM": 0.0,
+    "F1": 0.1667,
+    "ROUGE-L": 0.3158
+  },
+  {
+    "question": "Vị vua nào lập nên nước Đại Ngu",
+    "reference": "Hồ Quý Ly",
+    "raw_prediction": "Dựa trên ngữ cảnh, vị vua lập nên nước Đại Ngu là Hồ Quý Ly. Ông đã tự lên làm vua sau khi truất ngôi của cháu ngoại là Trần Thiếu Đế vào tháng 2 năm Canh Thìn 1400.",
+    "prediction": "Dựa trên ngữ cảnh, vị vua lập nên nước Đại Ngu là Hồ Quý Ly. Ông đã tự lên làm vua sau khi truất ngô",
+    "EM": 0.0,
+    "F1": 0.0952,
+    "ROUGE-L": 0.1017
+  }
+]

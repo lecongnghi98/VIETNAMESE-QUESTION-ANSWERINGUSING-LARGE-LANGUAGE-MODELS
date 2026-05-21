@@ -1,0 +1,80 @@
+{
+  "dataset_name": "UIT-ViCoV19QA",
+  "total_samples": 4500,
+  "splits": {
+    "Dev": 500,
+    "Test": 500,
+    "Train": 3500
+  },
+  "word_length": {
+    "context": {
+      "count": 4500,
+      "min": 0,
+      "max": 0,
+      "mean": 0.0,
+      "median": 0.0,
+      "std": 0.0,
+      "q25": 0.0,
+      "q75": 0.0
+    },
+    "question": {
+      "count": 4500,
+      "min": 1,
+      "max": 217,
+      "mean": 33.86,
+      "median": 25.0,
+      "std": 26.59,
+      "q25": 15.0,
+      "q75": 45.0
+    },
+    "answer": {
+      "count": 4500,
+      "min": 1,
+      "max": 2207,
+      "mean": 138.62,
+      "median": 107.0,
+      "std": 124.53,
+      "q25": 70.0,
+      "q75": 161.0
+    }
+  },
+  "char_length": {
+    "context": {
+      "count": 4500,
+      "min": 0,
+      "max": 0,
+      "mean": 0.0,
+      "median": 0.0,
+      "std": 0.0,
+      "q25": 0.0,
+      "q75": 0.0
+    },
+    "question": {
+      "count": 4500,
+      "min": 3,
+      "max": 1009,
+      "mean": 155.47,
+      "median": 117.0,
+      "std": 119.57,
+      "q25": 68.0,
+      "q75": 205.0
+    },
+    "answer": {
+      "count": 4500,
+      "min": 2,
+      "max": 10588,
+      "mean": 646.41,
+      "median": 497.0,
+      "std": 581.14,
+      "q25": 328.0,
+      "q75": 747.0
+    }
+  },
+  "quality": {
+    "missing_context": 4500,
+    "missing_question": 0,
+    "missing_answer": 0,
+    "duplicate_questions": 25,
+    "unicode_issues": 91
+  }
+}

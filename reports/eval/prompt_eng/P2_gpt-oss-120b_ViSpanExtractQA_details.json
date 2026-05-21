@@ -1,0 +1,452 @@
+[
+  {
+    "question": "chủ tịch tập đoàn Sunhouse là ai",
+    "reference": "Nguyễn Xuân Phú",
+    "raw_prediction": "Nguyễn Xuân Phú",
+    "prediction": "Nguyễn Xuân Phú",
+    "EM": 0.0,
+    "F1": 1.0,
+    "ROUGE-L": 1.0
+  },
+  {
+    "question": "Ai là tổng giám đốc của tập đoàn FPT",
+    "reference": "Trương Đình Anh",
+    "raw_prediction": "Trương Đình Anh",
+    "prediction": "Trương Đình Anh",
+    "EM": 0.0,
+    "F1": 1.0,
+    "ROUGE-L": 1.0
+  },
+  {
+    "question": "Nhân vật nào được mệnh danh là \"Người đàn bà thép của nước Anh\"?",
+    "reference": "Margaret Thatcher",
+    "raw_prediction": "Margaret Thatcher.",
+    "prediction": "Margaret Thatcher.",
+    "EM": 0.0,
+    "F1": 0.5,
+    "ROUGE-L": 1.0
+  },
+  {
+    "question": "Con gái của An Dương Vương là ai",
+    "reference": "Mỵ Nương",
+    "raw_prediction": "Mỵ Nương.",
+    "prediction": "Mỵ Nương.",
+    "EM": 0.0,
+    "F1": 0.5,
+    "ROUGE-L": 1.0
+  },
+  {
+    "question": "Ai là chủ tịch tập đoàn Viettel",
+    "reference": "Lê Đăng Dũng",
+    "raw_prediction": "",
+    "prediction": "",
+    "EM": 0.0,
+    "F1": 0.0,
+    "ROUGE-L": 0
+  },
+  {
+    "question": "Diễn viên nào đóng vai Tôn Ngộ Không",
+    "reference": "Chân Tử Đan",
+    "raw_prediction": "",
+    "prediction": "",
+    "EM": 0.0,
+    "F1": 0.0,
+    "ROUGE-L": 0
+  },
+  {
+    "question": "Ai là huấn luyện viên của Real Madrid",
+    "reference": "José Mourinho",
+    "raw_prediction": "",
+    "prediction": "",
+    "EM": 0.0,
+    "F1": 0.0,
+    "ROUGE-L": 0
+  },
+  {
+    "question": "Ca sĩ nào hát bài chạy ngay đi",
+    "reference": "Sơn Tùng M-TP",
+    "raw_prediction": "Sơn",
+    "prediction": "Sơn",
+    "EM": 0.0,
+    "F1": 0.5,
+    "ROUGE-L": 0.5
+  },
+  {
+    "question": "Vị vua nào sau đây đã đổi quốc hiệu nước ta thành Đại Nam?",
+    "reference": "Minh Mạng",
+    "raw_prediction": "V",
+    "prediction": "V",
+    "EM": 0.0,
+    "F1": 0.0,
+    "ROUGE-L": 0.0
+  },
+  {
+    "question": "Bộ trưởng bộ quốc phòng Việt Nam là ai",
+    "reference": "Ngô Xuân Lịch",
+    "raw_prediction": "",
+    "prediction": "",
+    "EM": 0.0,
+    "F1": 0.0,
+    "ROUGE-L": 0
+  },
+  {
+    "question": "Con gái của Hồ Việt Trung",
+    "reference": "Xí Muội",
+    "raw_prediction": "Xí",
+    "prediction": "Xí",
+    "EM": 0.0,
+    "F1": 0.6667,
+    "ROUGE-L": 0.5
+  },
+  {
+    "question": "Ai là chủ tịch tập đoàn Hòa Phát",
+    "reference": "Trần Đình Long",
+    "raw_prediction": "",
+    "prediction": "",
+    "EM": 0.0,
+    "F1": 0.0,
+    "ROUGE-L": 0
+  },
+  {
+    "question": "Vị vua nào sau đây đã đổi quốc hiệu nước ta thành Đại Nam?",
+    "reference": "Minh Mạng",
+    "raw_prediction": "Vua",
+    "prediction": "Vua",
+    "EM": 0.0,
+    "F1": 0.0,
+    "ROUGE-L": 0.0
+  },
+  {
+    "question": "Ai là chủ tịch tập đoàn SCG",
+    "reference": "Roongrote Rangsiyopash",
+    "raw_prediction": "Ông Roong",
+    "prediction": "Ông Roong",
+    "EM": 0.0,
+    "F1": 0.0,
+    "ROUGE-L": 0.0
+  },
+  {
+    "question": "Người giàu nhất thế giới năm 2012?",
+    "reference": "Carlos Slim",
+    "raw_prediction": "",
+    "prediction": "",
+    "EM": 0.0,
+    "F1": 0.0,
+    "ROUGE-L": 0
+  },
+  {
+    "question": "Ai được mệnh danh là Messi của Việt Nam",
+    "reference": "Công Phượng",
+    "raw_prediction": "",
+    "prediction": "",
+    "EM": 0.0,
+    "F1": 0.0,
+    "ROUGE-L": 0
+  },
+  {
+    "question": "chủ tịch tập đoàn Viettel là ai",
+    "reference": "Lê Đăng Dũng",
+    "raw_prediction": "",
+    "prediction": "",
+    "EM": 0.0,
+    "F1": 0.0,
+    "ROUGE-L": 0
+  },
+  {
+    "question": "Tổng thống Thụy Sỹ",
+    "reference": "Alain Berset",
+    "raw_prediction": "",
+    "prediction": "",
+    "EM": 0.0,
+    "F1": 0.0,
+    "ROUGE-L": 0
+  },
+  {
+    "question": "Ai là chủ tịch tập đoàn FLC",
+    "reference": "Trịnh Văn Quyết",
+    "raw_prediction": "Trịnh Văn Quyết",
+    "prediction": "Trịnh Văn Quyết",
+    "EM": 0.0,
+    "F1": 1.0,
+    "ROUGE-L": 1.0
+  },
+  {
+    "question": "Cầu thủ nào được gọi là cậu bé vàng",
+    "reference": "Anderson",
+    "raw_prediction": "",
+    "prediction": "",
+    "EM": 0.0,
+    "F1": 0.0,
+    "ROUGE-L": 0
+  },
+  {
+    "question": "vợ của Võ Nguyên Giáp là ai",
+    "reference": "Nguyễn Thị Quang Thái",
+    "raw_prediction": "Nguyễn Thị Quang Th",
+    "prediction": "Nguyễn Thị Quang Th",
+    "EM": 0.0,
+    "F1": 0.75,
+    "ROUGE-L": 0.9091
+  },
+  {
+    "question": "Ai là chủ biên cuốn sách Những dấu vết thời đại đồng thau",
+    "reference": "Lê Văn Lan , Phạm Văn Kỉnh , Nguyễn Linh",
+    "raw_prediction": "",
+    "prediction": "",
+    "EM": 0.0,
+    "F1": 0.0,
+    "ROUGE-L": 0
+  },
+  {
+    "question": "Tổng thống Ba Lan là ai",
+    "reference": "Lech Kaczynski",
+    "raw_prediction": "Lech Kaczyński",
+    "prediction": "Lech Kaczyński",
+    "EM": 0.0,
+    "F1": 0.5,
+    "ROUGE-L": 0.4
+  },
+  {
+    "question": "Mẹ của Nguyễn Tấn Dũng là ai",
+    "reference": "Nguyễn Thị Hường",
+    "raw_prediction": "Nguyễn Thị Hường",
+    "prediction": "Nguyễn Thị Hường",
+    "EM": 0.0,
+    "F1": 1.0,
+    "ROUGE-L": 1.0
+  },
+  {
+    "question": "Tên thật của nhà văn Tô Hoài?",
+    "reference": "Nguyễn Sen",
+    "raw_prediction": "Nguyễn Sen",
+    "prediction": "Nguyễn Sen",
+    "EM": 1.0,
+    "F1": 1.0,
+    "ROUGE-L": 1.0
+  },
+  {
+    "question": "Tổng thống Chile",
+    "reference": "Sebastian Piñera",
+    "raw_prediction": "",
+    "prediction": "",
+    "EM": 0.0,
+    "F1": 0.0,
+    "ROUGE-L": 0
+  },
+  {
+    "question": "Trưởng ban Tuyên giáo Trung ương là ai",
+    "reference": "Võ Văn Thưởng",
+    "raw_prediction": "",
+    "prediction": "",
+    "EM": 0.0,
+    "F1": 0.0,
+    "ROUGE-L": 0
+  },
+  {
+    "question": "Nhà thơ được mệnh danh là Nữ hoàng tình yêu?",
+    "reference": "Xuân Quỳnh",
+    "raw_prediction": "",
+    "prediction": "",
+    "EM": 0.0,
+    "F1": 0.0,
+    "ROUGE-L": 0
+  },
+  {
+    "question": "Theo thần thoại Hy Lạp, Saturn là tên vị thần nào?",
+    "reference": "Cronus",
+    "raw_prediction": "",
+    "prediction": "",
+    "EM": 0.0,
+    "F1": 0.0,
+    "ROUGE-L": 0
+  },
+  {
+    "question": "Bộ phim Jurassic Park do ai làm đạo diễn?",
+    "reference": "Steven Spielberg",
+    "raw_prediction": "Steven Spielberg.",
+    "prediction": "Steven Spielberg.",
+    "EM": 0.0,
+    "F1": 0.5,
+    "ROUGE-L": 1.0
+  },
+  {
+    "question": "Vận động viên nào giành huy chương vàng Olympic 2012 môn quần vợt đơn nam?",
+    "reference": "Murray",
+    "raw_prediction": "Andy Murray.",
+    "prediction": "Andy Murray.",
+    "EM": 0.0,
+    "F1": 0.0,
+    "ROUGE-L": 0.6667
+  },
+  {
+    "question": "Cầu thủ nào đoạt danh hiệu Quả bóng vàng Việt Nam đầu tiên?",
+    "reference": "Lê Huỳnh Đức",
+    "raw_prediction": "",
+    "prediction": "",
+    "EM": 0.0,
+    "F1": 0.0,
+    "ROUGE-L": 0
+  },
+  {
+    "question": "Ai là ông tổ nghề thêu Việt Nam ?",
+    "reference": "Lê Công Hành",
+    "raw_prediction": "Lê Công Hành",
+    "prediction": "Lê Công Hành",
+    "EM": 0.0,
+    "F1": 1.0,
+    "ROUGE-L": 1.0
+  },
+  {
+    "question": "Ai là vợ của Odin",
+    "reference": "Frigg",
+    "raw_prediction": "Nữ thần Frigg.",
+    "prediction": "Nữ thần Frigg.",
+    "EM": 0.0,
+    "F1": 0.0,
+    "ROUGE-L": 0.4
+  },
+  {
+    "question": "Mẹ của Thẩm Thuý Hằng là ai",
+    "reference": "Nguyễn Thuỵ Thị Hằng",
+    "raw_prediction": "",
+    "prediction": "",
+    "EM": 0.0,
+    "F1": 0.0,
+    "ROUGE-L": 0
+  },
+  {
+    "question": "Tác phẩm Bình Ngô đại cáo là của ai",
+    "reference": "Nguyễn Trãi",
+    "raw_prediction": "",
+    "prediction": "",
+    "EM": 0.0,
+    "F1": 0.0,
+    "ROUGE-L": 0
+  },
+  {
+    "question": "ai là người dẫn chương trình đường lên đỉnh olympia",
+    "reference": "Diệp Chi",
+    "raw_prediction": "",
+    "prediction": "",
+    "EM": 0.0,
+    "F1": 0.0,
+    "ROUGE-L": 0
+  },
+  {
+    "question": "Ai là vợ của Donald Trump",
+    "reference": "Melania",
+    "raw_prediction": "Mel",
+    "prediction": "Mel",
+    "EM": 0.0,
+    "F1": 0.0,
+    "ROUGE-L": 0.0
+  },
+  {
+    "question": "Ca khúc Hà Nội mùa vắng những cơn mưa là sáng tác của nhạc sỹ nào",
+    "reference": "Hải",
+    "raw_prediction": "Anh Hải.",
+    "prediction": "Anh Hải.",
+    "EM": 0.0,
+    "F1": 0.0,
+    "ROUGE-L": 0.8
+  },
+  {
+    "question": "Ai là người tìm ra tia X",
+    "reference": "Rơn-ghen",
+    "raw_prediction": "Wilhelm Conrad Röntgen.",
+    "prediction": "Wilhelm Conrad Röntgen.",
+    "EM": 0.0,
+    "F1": 0.0,
+    "ROUGE-L": 0.2857
+  },
+  {
+    "question": "Tên thật của chúa Sãi là gì ?",
+    "reference": "Nguyễn Phúc Nguyên",
+    "raw_prediction": "Nguyễn Phúc",
+    "prediction": "Nguyễn Phúc",
+    "EM": 0.0,
+    "F1": 0.8,
+    "ROUGE-L": 0.8
+  },
+  {
+    "question": "chồng của Nhật Kim Anh",
+    "reference": "Bửu Lộc",
+    "raw_prediction": "Bửu Lộc",
+    "prediction": "Bửu Lộc",
+    "EM": 1.0,
+    "F1": 1.0,
+    "ROUGE-L": 1.0
+  },
+  {
+    "question": "Ai là ông tổ nghề thêu Việt Nam ?",
+    "reference": "Lê Công Hành",
+    "raw_prediction": "",
+    "prediction": "",
+    "EM": 0.0,
+    "F1": 0.0,
+    "ROUGE-L": 0
+  },
+  {
+    "question": "Ai là chủ tịch tập đoàn Hoa sen",
+    "reference": "Vũ",
+    "raw_prediction": "Ông Vũ.",
+    "prediction": "Ông Vũ.",
+    "EM": 0.0,
+    "F1": 0.0,
+    "ROUGE-L": 0.6667
+  },
+  {
+    "question": "Cầu thủ nào là cầu thủ xuất sắc nhất World cup 2010 tại Nam Phi?",
+    "reference": "Diego Forlan",
+    "raw_prediction": "",
+    "prediction": "",
+    "EM": 0.0,
+    "F1": 0.0,
+    "ROUGE-L": 0
+  },
+  {
+    "question": "Con gái của Hồ Việt Trung",
+    "reference": "Gia Hân",
+    "raw_prediction": "",
+    "prediction": "",
+    "EM": 0.0,
+    "F1": 0.0,
+    "ROUGE-L": 0
+  },
+  {
+    "question": "Ai đang nắm giữ kỷ lục chạy 100m nhanh nhất",
+    "reference": "Usain Bolt",
+    "raw_prediction": "Usain Bolt",
+    "prediction": "Usain Bolt",
+    "EM": 0.0,
+    "F1": 1.0,
+    "ROUGE-L": 1.0
+  },
+  {
+    "question": "Ai là người sáng lập SoftBank",
+    "reference": "Son",
+    "raw_prediction": "",
+    "prediction": "",
+    "EM": 0.0,
+    "F1": 0.0,
+    "ROUGE-L": 0
+  },
+  {
+    "question": "Tác phẩm vợ nhặt là của ai",
+    "reference": "Kim Lân",
+    "raw_prediction": "",
+    "prediction": "",
+    "EM": 0.0,
+    "F1": 0.0,
+    "ROUGE-L": 0
+  },
+  {
+    "question": "Vị vua nào lập nên nước Đại Ngu",
+    "reference": "Hồ Quý Ly",
+    "raw_prediction": "Hồ Quý Ly.",
+    "prediction": "Hồ Quý Ly.",
+    "EM": 0.0,
+    "F1": 0.6667,
+    "ROUGE-L": 1.0
+  }
+]
